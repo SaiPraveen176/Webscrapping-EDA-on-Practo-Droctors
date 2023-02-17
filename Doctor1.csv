@@ -1,0 +1,592 @@
+,Specialization,Doctor_Name,Experience,Location,Consultation_fee,Rating,Review,Hospital_Name
+0,['Orthopedist2'],Dr. Arun Kumar Nadimpalli,24 years experience overall,"Somajiguda,Hyderabad",₹600,90% ,12 Patient Stories,Assisted Surgery Experience
+1,['General Surgeon2'],Dr. Rajeshwar Kamineni,25 years experience overall,"Kondapur,Hyderabad",₹600,100% ,27 Patient Stories,Assisted Surgery Experience
+2,['General Surgeon1'],Dr. Mohd Ilyas,15 years experience overall,"Himayat Nagar,Hyderabad",₹499,87% ,13 Patient Stories,Assisted Surgery Experience
+3,['Orthopedist1'],Dr. Kaushik B K,10 years experience overall,"SR Nagar,Hyderabad",₹500,67% ,NaN,Assisted Surgery Experience
+4,['General Surgeon1'],Dr. Parvez Ansari,19 years experience overall,"Banjara Hills,Hyderabad",₹499,100% ,4 Patient Stories,Assisted Surgery Experience
+5,['Plastic Surgeon1'],Dr. Beena Valandi,13 years experience overall,"SR Nagar,Hyderabad",₹699,100% ,2 Patient Stories,Assisted Surgery Experience
+6,['Ophthalmologist3'],Dr. Syed Siddique Hussain,30 years experience overall,"Santosh Nagar,Hyderabad",₹499,100% ,1 Patient Story,Assisted Surgery Experience
+7,['Ophthalmologist1'],Dr. Sushanth Bachu,13 years experience overall,"Secunderabad,Hyderabad",₹499,100% ,2 Patient Stories,Assisted Surgery Experience
+8,['Plastic Surgeon'],Dr. Veena Priya D,8 years experience overall,"Kothapet,Hyderabad",₹699,NaN,NaN,Assisted Surgery Experience
+9,['Plastic Surgeon1'],Dr. Harikiran Chekuri,17 years experience overall,"Gachibowli,Hyderabad",₹699,97% ,488 Patient Stories,Assisted Surgery Experience
+10,['Orthopedist2'],Dr. Ajay Kumar Tiwari,21 years experience overall,"Somajiguda,Hyderabad",₹600,100% ,1 Patient Story,Assisted Surgery Experience
+11,['Internal Medicine1'],Dr. Shaeq Mirza,17 years experience overall,"Hyderguda,Hyderabad",₹600,98% ,11 Patient Stories,Assisted Surgery Experience
+12,['General Physician2'],Dr. Syed Athar Hussain,29 years experience overall,"Kondapur,Hyderabad",₹550,93% ,30 Patient Stories,Assisted Surgery Experience
+13,['General Physician3'],Dr. Indira Ramasahayam Reddy,36 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,5 Patient Stories,Assisted Surgery Experience
+14,['General Physician1'],Dr. Murali Yelchuri,17 years experience overall,"Miyapur,Hyderabad",₹600,91% ,15 Patient Stories,Assisted Surgery Experience
+15,['General Physician4'],Dr. Vasanth Kumar,45 years experience overall,"Jubilee Hills,Hyderabad",₹600,67% ,5 Patient Stories,Assisted Surgery Experience
+16,['General Physician4'],Dr. S.Bhattacharjee,44 years experience overall,"Secunderabad,Hyderabad",₹600,89% ,10 Patient Stories,Assisted Surgery Experience
+17,['Neurologist2'],Dr. Neehar Potluri,23 years experience overall,"Kukatpally,Hyderabad",₹500,98% ,447 Patient Stories,Assisted Surgery Experience
+18,['General Physician2'],Dr. Neelwanti Soni,20 years experience overall,"Kondapur,Hyderabad",₹450,88% ,160 Patient Stories,Assisted Surgery Experience
+19,['Internal Medicine2'],Dr. Jaganmani Sreekanth,29 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,6 Patient Stories,Assisted Surgery Experience
+20,['Gastroenterologist1'],Dr. Seetharam Kumar D,27 years experience overall,"Nizampet,Hyderabad",₹500,99% ,208 Patient Stories,Cosmedent Speciality Dental Clinic
+21,['Internal Medicine2'],Dr. Kembavi Srinivas,37 years experience overall,"KPHB,Hyderabad",₹800,96% ,837 Patient Stories,Cosmedent Speciality Dental Clinic
+22,['General Physician4'],Dr. L Kiran Kumar   (Physiotherapist),17 years experience overall,"KPHB,Hyderabad",₹300,98% ,180 Patient Stories,Cosmedent Speciality Dental Clinic
+23,['General Physician2'],Dr. M. S. Sushma Susik,32 years experience overall,"Mehdipatnam,Hyderabad",₹300,98% ,431 Patient Stories,Cosmedent Speciality Dental Clinic
+24,['Internal Medicine2'],Dr. Sruthi Gondi,13 years experience overall,"Secunderabad,Hyderabad",₹700,93% ,178 Patient Stories,Cosmedent Speciality Dental Clinic
+25,['General PhysicianSpecial Interest in Diabetology1'],Dr. Radha Penumatsa,10 years experience overall,"Kompally,Hyderabad",₹500,100% ,17 Patient Stories,Cosmedent Speciality Dental Clinic
+26,['General Physician1'],Dr. Durga Vytla,14 years experience overall,"Miyapur,Hyderabad",₹600,98% ,154 Patient Stories,Cosmedent Speciality Dental Clinic
+27,['General Physician4'],Dr. K Sandeep Reddy,15 years experience overall,"Manikonda,Hyderabad",₹500,79% ,25 Patient Stories,Cosmedent Speciality Dental Clinic
+28,['Internal Medicine3'],Dr. Rajesh Kumar Enagala,25 years experience overall,"Banjara Hills,Hyderabad",₹650,100% ,20 Patient Stories,Cosmedent Speciality Dental Clinic
+29,['Internal Medicine3'],Dr. J. Rakee Purnima,14 years experience overall,"LB Nagar,Hyderabad",₹400,98% ,217 Patient Stories,Cosmedent Speciality Dental Clinic
+30,['\xa0Homoeopath5'],Dr. Subhash Chander,51 years experience overall,"Jeedimetla,Hyderabad",₹700,94% ,216 Patient Stories,New Life Speciality Homeo Care
+31,['General Physician3'],Dr. Ganesh Yadala,37 years experience overall,"Jubilee Hills,Hyderabad",₹1000,33% ,2 Patient Stories,New Life Speciality Homeo Care
+32,['General Physician3'],Dr. Srinivas Chakravarthy Gummaraju,34 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,New Life Speciality Homeo Care
+33,['General Physician2'],Dr. L Sunandhini,26 years experience overall,"Ameerpet,Hyderabad",₹600,94% ,6 Patient Stories,New Life Speciality Homeo Care
+34,['General Physician2'],Dr. Surya Pavan Reddy,26 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,1 Patient Story,New Life Speciality Homeo Care
+35,['General Physician1'],Dr. Naveen Kumar Pothireddy,14 years experience overall,"Hitech City,Hyderabad",₹500,100% ,21 Patient Stories,New Life Speciality Homeo Care
+36,['General Physician2'],Dr. Yakkala Suresh Babu,20 years experience overall,"Jubilee Hills,Hyderabad",₹800,82% ,3 Patient Stories,New Life Speciality Homeo Care
+37,['Internal Medicine1'],Dr. Prathima Chilukuri,18 years experience overall,"Nallagandla,Hyderabad",₹800,98% ,101 Patient Stories,New Life Speciality Homeo Care
+38,['General Physician3'],Dr. S. Ravindra Kumar,31 years experience overall,"Ameerpet,Hyderabad",₹500,75% ,6 Patient Stories,New Life Speciality Homeo Care
+39,['General Physician2'],Dr. D.Uma Sreedevi,27 years experience overall,"Ameerpet,Hyderabad",₹700,80% ,3 Patient Stories,New Life Speciality Homeo Care
+40,['Internal Medicine2'],Dr. Ravikiran Abraham Barigala,23 years experience overall,"Jubilee Hills,Hyderabad",₹1500,NaN,NaN,Apollo Hospitals
+41,['Internal Medicine2'],Dr. Pramati Reddy,28 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,NaN,Apollo Hospitals
+42,['General Physician2'],Dr. P. Gautam,28 years experience overall,"Habsiguda,Hyderabad",₹500,99% ,46 Patient Stories,Apollo Hospitals
+43,['Cardiologist2'],Dr. Ganesh Mathan,26 years experience overall,"Lingampally,Hyderabad",₹700,95% ,394 Patient Stories,Apollo Hospitals
+44,['Internal Medicine2'],Dr. Lakshmi Godavarthy,25 years experience overall,"Jubilee Hills,Hyderabad",₹800,78% ,5 Patient Stories,Apollo Hospitals
+45,['Internal Medicine2'],Dr. Srinivas Yadavalli,24 years experience overall,"Jubilee Hills,Hyderabad",₹800,80% ,5 Patient Stories,Apollo Hospitals
+46,['General Physician3'],Dr. B Ramulu,36 years experience overall,"Secunderabad,Hyderabad",₹600,80% ,7 Patient Stories,Apollo Hospitals
+47,['General Physician4'],Dr. Lalitha Devi Nori,43 years experience overall,"Nizampet,Hyderabad",₹400,100% ,16 Patient Stories,Apollo Hospitals
+48,['General Physician1'],Dr. Vivek Belde,16 years experience overall,"AS Rao Nagar,Hyderabad",₹650,95% ,12 Patient Stories,Apollo Hospitals
+49,['General Physician2'],Dr. Gowri Sankar Bapanapalli,25 years experience overall,"Kukatpally,Hyderabad",₹750,100% ,25 Patient Stories,Apollo Hospitals
+50,['Internal Medicine1'],Dr. Pavan Kumar Bichal,35 years experience overall,"Jubilee Hills,Hyderabad",₹1000,80% ,3 Patient Stories,Apollo Hospitals
+51,['General Physician1'],Dr. B.Imran Khan,15 years experience overall,"Banjara Hills,Hyderabad",₹350,100% ,27 Patient Stories,Apollo Hospitals
+52,['General PractitionerSpecial Interest in Diabetology1'],Dr. Susmitha Gundavaram,22 years experience overall,"KPHB,Hyderabad",₹500,98% ,118 Patient Stories,Apollo Hospitals
+53,['General Physician2'],Dr. Mithil B Ghushe,20 years experience overall,"Hitech City,Hyderabad",₹500,92% ,13 Patient Stories,Apollo Hospitals
+54,['General Physician1'],Dr. D.Vidyasagar,22 years experience overall,"Secunderabad,Hyderabad",₹800,99% ,165 Patient Stories,Apollo Hospitals
+55,['General PhysicianSpecial Interest in Diabetology2'],Dr. Chetan Raj,12 years experience overall,"Begumpet,Hyderabad",₹51,97% ,306 Patient Stories,Apollo Hospitals
+56,['General Physician1'],Dr. Archana A,16 years experience overall,"Kukatpally,Hyderabad",₹600,96% ,99 Patient Stories,Apollo Hospitals
+57,['Internal Medicine2'],Dr. Lavanya B,17 years experience overall,"Madhapur,Hyderabad",₹400,93% ,96 Patient Stories,Apollo Hospitals
+58,['General PhysicianSpecial Interest in Diabetology2'],Dr. Nataraj Perumalla,19 years experience overall,"Alwal,Hyderabad",₹500,96% ,18 Patient Stories,Apollo Hospitals
+59,['General Physician1'],Dr. Asfiya Kulsum,7 years experience overall,"Gachibowli,Hyderabad",₹2000,91% ,11 Patient Stories,Apollo Hospitals
+60,['General Physician1'],Dr. Srikar Krishna,11 years experience overall,"Nizampet,Hyderabad",₹500,100% ,1 Patient Story,Apollo Clinic
+61,['General Physician1'],Dr. Usha Gaddam,15 years experience overall,"Manikonda,Hyderabad",₹500,73% ,4 Patient Stories,Apollo Clinic
+62,['General Physician1'],Dr. Rahul Gandhi Godisela,19 years experience overall,"Attapur,Hyderabad",₹300,93% ,15 Patient Stories,Apollo Clinic
+63,['General PhysicianSpecial Interest in Diabetology1'],Dr. Prashanth Chandra NY,Special Interest in Diabetology,"Srinagar Colony,Hyderabad",₹450,85% ,21 Patient Stories,Apollo Clinic
+64,['General Physician1'],Dr. Anil Kotamreddy,19 years experience overall,"Kondapur,Hyderabad",₹900,100% ,2 Patient Stories,Apollo Clinic
+65,['General Physician2'],Dr. Srinivas Jakkinaboina,25 years experience overall,"Narsingi,Hyderabad",₹500,75% ,1 Patient Story,Apollo Clinic
+66,['General Physician1'],Dr. Aashritha Mekala,11 years experience overall,"Attapur,Hyderabad",₹300,100% ,25 Patient Stories,Apollo Clinic
+67,['Pulmonologist1'],Dr. Sharath Chandra,11 years experience overall,"Santosh Nagar,Hyderabad",₹800,100% ,6 Patient Stories,Apollo Clinic
+68,['General Physician2'],Dr. Vinod Kumar Reddy M,20 years experience overall,"Hitech City,Hyderabad",₹600,100% ,NaN,Apollo Clinic
+69,['General Physician1'],Dr. Harish Kadarala,19 years experience overall,"Chanda Nagar,Hyderabad",₹550,NaN,NaN,Apollo Clinic
+70,['General Physician1'],Dr. Neehar Potluri,23 years experience overall,"Kukatpally,Hyderabad",₹500,98% ,447 Patient Stories,Neehar Neuro Centre
+71,['General Physician1'],Ms. Archana Nanduri,11 years experience overall,"Nagole,Hyderabad",₹1000,99% ,52 Patient Stories,Neehar Neuro Centre
+72,['General Physician'],Dr. Phani Kumar,30 years experience overall,"Secunderabad,Hyderabad",₹200,97% ,148 Patient Stories,Neehar Neuro Centre
+73,['General Physician2'],Dr. Anil Kumar,20 years experience overall,"Boduppal,Hyderabad",₹300,98% ,130 Patient Stories,Neehar Neuro Centre
+74,['Sexologist3'],Dr. K Kiran Kumar,26 years experience overall,"Kondapur,Hyderabad",₹300,99% ,415 Patient Stories,Neehar Neuro Centre
+75,['General Physician1'],Dr. Padmaja Lokireddy,25 years experience overall,"Jubilee Hills,Hyderabad",₹1000,83% ,7 Patient Stories,Neehar Neuro Centre
+76,['Internal Medicine1'],Dr. D Suresh,11 years experience overall,"Himayat Nagar,Hyderabad",₹1000,100% ,11 Patient Stories,Neehar Neuro Centre
+77,['General Physician3'],Dr. Murali Yelchuri,17 years experience overall,"Miyapur,Hyderabad",₹600,91% ,15 Patient Stories,Neehar Neuro Centre
+78,['Internal Medicine1'],Dr. D. Anjani Kumari,15 years experience overall,"Nagole,Hyderabad",₹300,75% ,2 Patient Stories,Neehar Neuro Centre
+79,['General Physician1'],Dr. D.Uma Sreedevi,27 years experience overall,"Ameerpet,Hyderabad",₹700,80% ,3 Patient Stories,Neehar Neuro Centre
+80,['General Physician'],Dr. Kiran Macha,7 years experience overall,"Secunderabad,Hyderabad",₹900,NaN,NaN,Apollo Hospital
+81,['General Physician'],Dr. Susan Darla,4 years experience overall,"Uppal,Hyderabad",₹450,100% ,NaN,Apollo Hospital
+82,['General Physician1'],Dr. J. Shiva Prasad,13 years experience overall,"LB Nagar,Hyderabad",₹500,100% ,1 Patient Story,Apollo Hospital
+83,['General Physician1'],Dr. Sai Kiran Thipparthi,12 years experience overall,"Kondapur,Hyderabad",₹500,100% ,6 Patient Stories,Apollo Hospital
+84,['General Physician1'],Dr. Markandeya Akurathi,13 years experience overall,"Kukatpally,Hyderabad",₹400,100% ,8 Patient Stories,Apollo Hospital
+85,['Internal Medicine1'],Dr. M.Ramanjaneyulu,10 years experience overall,"Champapet,Hyderabad",₹500,NaN,NaN,Apollo Hospital
+86,['General Physician1'],Dr. Shruti Deshpande,11 years experience overall,"Sun city,Hyderabad",₹500,100% ,5 Patient Stories,Apollo Hospital
+87,['General Physician1'],Dr. K Naga Jyothi,18 years experience overall,"Kanchanbagh,Hyderabad",₹500,50% ,4 Patient Stories,Apollo Hospital
+88,['General Physician1'],Dr. Haricharan Modem,13 years experience overall,"KPHB,Hyderabad",₹100,100% ,1 Patient Story,Apollo Hospital
+89,['General Physician1'],Dr. E Priyatham,10 years experience overall,"Uppal,Hyderabad",₹500,100% ,2 Patient Stories,Apollo Hospital
+90,['GastroIntestinal Surgeon2'],Dr. Ashok Vardhan K,6 years experience overall,"Vanasthalipuram,Hyderabad",₹500,100% ,2 Patient Stories,Sriyansh Clinic
+91,[''],Dr. S Raghavender,12 years experience overall,"Nacharam,Hyderabad",₹500,100% ,15 Patient Stories,Sriyansh Clinic
+92,['Physiotherapist'],Dr. Gouraiah,11 years experience overall,"Boduppal,Hyderabad",₹500,100% ,4 Patient Stories,Sriyansh Clinic
+93,['Gynecologist/Obstetrician2'],Dr. Srikanth Boini,10 years experience overall,"Miyapur,Hyderabad",₹600,92% ,15 Patient Stories,Sriyansh Clinic
+94,['Dermatologist1'],Dr. Mohammed Parvez,22 years experience overall,"East Marredpally,Hyderabad",₹800,100% ,2 Patient Stories,Sriyansh Clinic
+95,['Endocrinologist1'],Dr. Mohd Ifthekar Mohiuddin,15 years experience overall,"Mehdipatnam,Hyderabad",₹550,NaN,NaN,Sriyansh Clinic
+96,['Gynecologist/Obstetrician2'],Dr. M.Chandrakanth Rao,27 years experience overall,"Boduppal,Hyderabad",₹850,80% ,4 Patient Stories,Sriyansh Clinic
+97,['Pediatrician1'],Dr. Mohd Ghouse Mohiuddin,15 years experience overall,"Mehdipatnam,Hyderabad",₹500,100% ,1 Patient Story,Sriyansh Clinic
+98,['Ear-Nose-Throat (ENT) Specialist'],Dr. Abhinandana,12 years experience overall,"Kondapur,Hyderabad",₹500,100% ,1 Patient Story,Sriyansh Clinic
+99,['Dermatologist1'],Dr. Vandana,17 years experience overall,"Nizampet,Hyderabad",₹500,NaN,NaN,Sriyansh Clinic
+100,['General Physician3'],Dr. G.V. Rajgopal,31 years experience overall,"Kukatpally,Hyderabad",₹1000,NaN,NaN,Amor Hospitals
+101,['General Physician1'],Dr. Ranga Srikanth,17 years experience overall,"Mehdipatnam,Hyderabad",₹550,NaN,NaN,Amor Hospitals
+102,['General Physician1'],Dr. Mubashir Ahmed,14 years experience overall,"Mehdipatnam,Hyderabad",₹500,NaN,NaN,Amor Hospitals
+103,['General Physician1'],Dr. A Harshavardhan,13 years experience overall,"Hitech City,Hyderabad",₹600,NaN,NaN,Amor Hospitals
+104,['General Physician'],Dr. Dolla Raja Ramesh,7 years experience overall,"Attapur,Hyderabad",₹600,NaN,NaN,Amor Hospitals
+105,['Internal Medicine'],Dr. Teja C,3 years experience overall,"Kukatpally,Hyderabad",₹500,NaN,NaN,Amor Hospitals
+106,['General Physician'],Dr. Swathi Prathipati,7 years experience overall,"Banjara Hills,Hyderabad",₹600,NaN,NaN,Amor Hospitals
+107,['General Physician'],Dr. Nimmagadda Viraja,8 years experience overall,"Mehdipatnam,Hyderabad",₹550,NaN,NaN,Amor Hospitals
+108,['General Physician2'],Dr. Annam Sridhar,26 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Amor Hospitals
+109,['General Physician1'],Dr. Cymantha Bandameedi,12 years experience overall,"Kondapur,Hyderabad",₹600,NaN,NaN,Amor Hospitals
+110,['Neurologist1'],Dr. P.Chandra Shekar,14 years experience overall,"Nacharam,Hyderabad",₹600,67% ,9 Patient Stories,S.S. Neuro Care Centre
+111,['General Physician'],Dr. Kotamarthi Ravi Teja,5 years experience overall,"Gachibowli,Hyderabad",₹600,NaN,NaN,S.S. Neuro Care Centre
+112,['General Physician'],Dr. Harish Kumar J,4 years experience overall,"Madinaguda,Hyderabad",₹700,NaN,NaN,S.S. Neuro Care Centre
+113,['General Physician1'],Dr. R.N.V. Vamsi Krishna,14 years experience overall,"Nacharam,Hyderabad",₹500,67% ,2 Patient Stories,S.S. Neuro Care Centre
+114,['General Physician1'],Dr. Talacheru Srinivasulu,18 years experience overall,"Madhapur,Hyderabad",₹550,NaN,NaN,S.S. Neuro Care Centre
+115,['General Physician1'],Dr. Nithin Reddy,10 years experience overall,"Suchitra Circle,Hyderabad",₹400,100% ,19 Patient Stories,S.S. Neuro Care Centre
+116,['General Physician4'],Dr. S. Mahalakshmi,40 years experience overall,"Mehdipatnam,Hyderabad",₹500,100% ,135 Patient Stories,S.S. Neuro Care Centre
+117,['General Physician1'],Dr. Vikram Cheryala,12 years experience overall,"Kokapet,Hyderabad",₹600,99% ,208 Patient Stories,S.S. Neuro Care Centre
+118,['General Physician2'],Dr. I V Siva Prasad,20 years experience overall,"Narsingi,Hyderabad",₹500,98% ,39 Patient Stories,S.S. Neuro Care Centre
+119,['Internal Medicine1'],Dr. Suram Vasanth Kumar,17 years experience overall,"Uppal,Hyderabad",₹500,100% ,7 Patient Stories,S.S. Neuro Care Centre
+120,['General Physician1'],Dr. Sivani Payneni,16 years experience overall,"Serilingampally,Hyderabad",₹650,100% ,32 Patient Stories,Apollo Sugar Clinics
+121,['General Physician1'],Dr. Y Sridhar,19 years experience overall,"Kondapur,Hyderabad",₹600,100% ,20 Patient Stories,Apollo Sugar Clinics
+122,['General Physician2'],Dr. N.V. Ramana Rao,26 years experience overall,"Nallagandla,Hyderabad",₹1000,99% ,490 Patient Stories,Apollo Sugar Clinics
+123,['General Physician1'],Dr. Rajeev Prasad,10 years experience overall,"Karmanghat,Hyderabad",₹500,96% ,24 Patient Stories,Apollo Sugar Clinics
+124,['General Physician1'],Dr. Satyanarayana Batari,13 years experience overall,"Chanda Nagar,Hyderabad",₹1000,66% ,21 Patient Stories,Apollo Sugar Clinics
+125,['General Physician2'],Dr. Fini Ani Philip,29 years experience overall,"KPHB,Hyderabad",₹500,100% ,102 Patient Stories,Apollo Sugar Clinics
+126,['Pathologist4'],Dr. Bhavani M,44 years experience overall,"Amberpet,Hyderabad",₹500,100% ,1 Patient Story,Apollo Sugar Clinics
+127,['Dermatologist1'],Dr. Vritika Gaddam,13 years experience overall,"Banjara Hills,Hyderabad",₹1000,97% ,28 Patient Stories,Apollo Sugar Clinics
+128,['General Physician1'],Dr. (Maj) D Dheeraj Reddy,12 years experience overall,"Vanasthalipuram,Hyderabad",₹500,92% ,29 Patient Stories,Apollo Sugar Clinics
+129,['General Physician1'],Dr. V A Prasad,14 years experience overall,"Banjara Hills,Hyderabad",₹1200,97% ,31 Patient Stories,Apollo Sugar Clinics
+130,['General Physician1'],Dr. Sushmitha,28 years experience overall,"Ameerpet,Hyderabad",₹600,95% ,25 Patient Stories,Aster Prime Hospital
+131,['General Physician4'],Dr. Nidhi Nair,42 years experience overall,"Chanda Nagar,Hyderabad",₹650,88% ,46 Patient Stories,Aster Prime Hospital
+132,['General Physician2'],Dr. Prashant K Vaidya,14 years experience overall,"Chanda Nagar,Hyderabad",₹500,95% ,854 Patient Stories,Aster Prime Hospital
+133,['General Physician1'],Dr. G.C.Malakondaiah,44 years experience overall,"Lakdikapul,Hyderabad",₹950,100% ,6 Patient Stories,Aster Prime Hospital
+134,['General Physician1'],Dr. Sirisha Yanegalla,13 years experience overall,"Kondapur,Hyderabad",₹600,97% ,147 Patient Stories,Aster Prime Hospital
+135,['General Physician1'],Dr. Jhansi,10 years experience overall,"Kondapur,Hyderabad",₹200,NaN,NaN,Aster Prime Hospital
+136,['General Practitioner1'],Dr. Andal Reddy,23 years experience overall,"Manikonda,Hyderabad",₹500,95% ,84 Patient Stories,Aster Prime Hospital
+137,['General Physician1'],Dr. Radhika Reddy Pingili,25 years experience overall,"Kondapur,Hyderabad",₹700,97% ,171 Patient Stories,Aster Prime Hospital
+138,['General Physician'],Dr. Y. Venkata Ramana,27 years experience overall,"Banjara Hills,Hyderabad",₹700,98% ,118 Patient Stories,Aster Prime Hospital
+139,['General Physician1'],Dr. G L Sitara,13 years experience overall,"Madinaguda,Hyderabad",₹500,97% ,281 Patient Stories,Aster Prime Hospital
+140,['General Physician4'],Dr. V.S.Pearlin,17 years experience overall,"Madhapur,Hyderabad",₹600,100% ,6 Patient Stories,Idea Clinics
+141,['Dentist3'],Dr. C Sairam,34 years experience overall,"Chapel Road,Hyderabad",₹550,100% ,NaN,Idea Clinics
+142,['Gynecologist/Obstetrician'],Dr. M. Chandra Sekhar,Special Interest in Diabetology,"Chintal,Hyderabad",₹300,100% ,78 Patient Stories,Idea Clinics
+143,['Gynecologist/Obstetrician4'],Dr. Shashidhar Kumar,12 years experience overall,"Uppal,Hyderabad",₹500,100% ,6 Patient Stories,Idea Clinics
+144,['Neurosurgeon1'],Dr. Vimal Rai,55 years experience overall,"Chapel Road,Hyderabad",₹550,95% ,35 Patient Stories,Idea Clinics
+145,['Dietitian/Nutritionist3'],Dr. Mirza Aziz Baig,Special Interest in Diabetology,"Chanda Nagar,Hyderabad",₹600,96% ,116 Patient Stories,Idea Clinics
+146,['Hair Transplant Surgeon1'],Dr. Amirneni Kavitha,26 years experience overall,"AS Rao Nagar,Hyderabad",₹450,14% ,5 Patient Stories,Idea Clinics
+147,['Physiotherapist'],Dr. Anirudha Anumula,16 years experience overall,"Kondapur,Hyderabad",₹550,94% ,14 Patient Stories,Idea Clinics
+148,['Physiotherapist1'],Dr. Khadhar Pasha,12 years experience overall,"Manikonda,Hyderabad",₹300,100% ,30 Patient Stories,Idea Clinics
+149,['Psychologist'],Dr. Triveni T,3 years experience overall,"KPHB,Hyderabad",₹100,75% ,3 Patient Stories,Idea Clinics
+150,['General Physician'],Dr. Sarah Kaderi,9 years experience overall,"Lakdikapul,Hyderabad",₹300,100% ,2 Patient Stories,Priority Health Clinic
+151,['General Physician1'],Dr. D. Dhanunjaya,12 years experience overall,"Chintal,Hyderabad",₹300,86% ,3 Patient Stories,Priority Health Clinic
+152,['General Physician'],Dr. Mohammed Salman Mohiuddin,5 years experience overall,"Jubilee Hills,Hyderabad",₹200,NaN,NaN,Priority Health Clinic
+153,['General Physician'],Dr. Gannoji Karthik,9 years experience overall,"Khairatabad,Hyderabad",₹200,NaN,NaN,Priority Health Clinic
+154,['General Physician1'],Dr. J Gopala Krishna,13 years experience overall,"Srinagar Colony,Hyderabad",₹400,100% ,53 Patient Stories,Priority Health Clinic
+155,['General Physician2'],Dr. Vijayashree Kumaraswamy Midathala,26 years experience overall,"Kondapur,Hyderabad",₹450,83% ,3 Patient Stories,Priority Health Clinic
+156,['General Physician1'],Dr. Rahul Chirag,12 years experience overall,"Gachibowli,Hyderabad",₹600,98% ,35 Patient Stories,Priority Health Clinic
+157,['General Physician'],Dr. Mote Srikanth,9 years experience overall,"Uppal,Hyderabad",₹450,82% ,14 Patient Stories,Priority Health Clinic
+158,['General Physician'],Dr. Aarti Singh,8 years experience overall,"Karkhana,Hyderabad",₹300,NaN,NaN,Priority Health Clinic
+159,['General Physician2'],Dr. K. Anurag Reddy,25 years experience overall,"Sun city,Hyderabad",₹1200,NaN,NaN,Priority Health Clinic
+160,['General Physician1'],Dr. Kalyan Uppaluri,19 years experience overall,"Jubilee Hills,Hyderabad",₹1500,100% ,13 Patient Stories,K&H Personalized Medicine Clinic
+161,['General Physician2'],Dr. Savita Sharma,29 years experience overall,"Kondapur,Hyderabad",₹550,50% ,2 Patient Stories,K&H Personalized Medicine Clinic
+162,['General Physician2'],Dr. Srirang Abkari,22 years experience overall,"Chapel Road,Hyderabad",₹600,100% ,7 Patient Stories,K&H Personalized Medicine Clinic
+163,['Dermatologist1'],Dr. Nilofer,10 years experience overall,"Manikonda,Hyderabad",₹600,97% ,24 Patient Stories,K&H Personalized Medicine Clinic
+164,['General Physician'],Dr. R R L Gayathri,7 years experience overall,"AS Rao Nagar,Hyderabad",₹400,NaN,NaN,K&H Personalized Medicine Clinic
+165,['General Physician1'],Dr. Kalpana S,12 years experience overall,"Nizampet,Hyderabad",₹300,100% ,1 Patient Story,K&H Personalized Medicine Clinic
+166,['General Physician1'],Dr. Nikita Singh,10 years experience overall,"Adarsh Nagar,Hyderabad",₹500,100% ,1 Patient Story,K&H Personalized Medicine Clinic
+167,['General Physician1'],Dr. N Avinash,12 years experience overall,"Jeedimetla,Hyderabad",₹350,100% ,2 Patient Stories,K&H Personalized Medicine Clinic
+168,['General Physician'],Dr. Mohammad Ali,4 years experience overall,"Asif Nagar,Hyderabad",₹250,50% ,1 Patient Story,K&H Personalized Medicine Clinic
+169,['General Physician1'],Dr. Sreeram Valluri,11 years experience overall,"Manikonda,Hyderabad",₹700,NaN,NaN,K&H Personalized Medicine Clinic
+170,['General Physician'],Dr. P Chandrashekar,5 years experience overall,"Manikonda,Hyderabad",₹1000,NaN,NaN,Hanika Clinic
+171,['Internal Medicine2'],Dr. Y Geeta Devi,25 years experience overall,"Kondapur,Hyderabad",₹800,83% ,3 Patient Stories,Hanika Clinic
+172,['General Physician1'],Dr. V. Phanisree,10 years experience overall,"Kondapur,Hyderabad",₹550,100% ,NaN,Hanika Clinic
+173,['General Physician1'],Dr. Ravindra Kumar Sravanam,13 years experience overall,"Kukatpally,Hyderabad",₹600,100% ,3 Patient Stories,Hanika Clinic
+174,['General Physician2'],Dr. Ravisankar Erukulpati,25 years experience overall,"Jubilee Hills,Hyderabad",₹800,NaN,NaN,Hanika Clinic
+175,['General Physician1'],Dr. Jonnala Seshayamma,10 years experience overall,"Kukatpally,Hyderabad",₹500,100% ,1 Patient Story,Hanika Clinic
+176,['Ear-Nose-Throat (ENT) Specialist'],Dr. K. Varsha,8 years experience overall,"Boduppal,Hyderabad",₹300,80% ,5 Patient Stories,Hanika Clinic
+177,['General Physician1'],Dr. Triven Sagar,14 years experience overall,"Kompally,Hyderabad",₹400,100% ,1 Patient Story,Hanika Clinic
+178,['General Physician1'],Dr. Aarthi B,15 years experience overall,"Kukatpally,Hyderabad",₹600,NaN,NaN,Hanika Clinic
+179,['General Physician1'],Dr. Sai Kiran,11 years experience overall,"Kondapur,Hyderabad",₹600,NaN,NaN,Hanika Clinic
+180,['General Physician1'],Dr. Shashidhar Kumar,12 years experience overall,"Uppal,Hyderabad",₹500,100% ,6 Patient Stories,Vibha Childrens Clinic
+181,['General Physician1'],Dr. Lakshmi Godavarthy,25 years experience overall,"Kondapur,Hyderabad",₹800,78% ,5 Patient Stories,Vibha Childrens Clinic
+182,['General Physician1'],Dr. Alekya Singapore,10 years experience overall,"Kondapur,Hyderabad",₹700,90% ,28 Patient Stories,Vibha Childrens Clinic
+183,['General Physician'],Dr. B. Chaithanya,16 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,4 Patient Stories,Vibha Childrens Clinic
+184,['General Physician'],Mr. Riju Raj Roy,12 years experience overall,"Banjara Hills,Hyderabad",₹1800,95% ,120 Patient Stories,Vibha Childrens Clinic
+185,['General Physician1'],Dr. Raja Sekhar M,12 years experience overall,"SR Nagar,Hyderabad",₹500,100% ,2 Patient Stories,Vibha Childrens Clinic
+186,['General Physician1'],Mr. Srikanth Majjiga,7 years experience overall,"Quthbullapur,Hyderabad",₹2000,100% ,27 Patient Stories,Vibha Childrens Clinic
+187,['General Physician1'],Dr. Naveen Atluru,12 years experience overall,"Banjara Hills,Hyderabad",₹1000,97% ,22 Patient Stories,Vibha Childrens Clinic
+188,['General Physician1'],Dr. Anil Kotamreddy,19 years experience overall,"Kondapur,Hyderabad",₹900,100% ,2 Patient Stories,Vibha Childrens Clinic
+189,['General Physician1'],Dr. Sriteja Vemulapalli,11 years experience overall,"Kukatpally,Hyderabad",₹600,100% ,NaN,Vibha Childrens Clinic
+190,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Krishna Bojja,20 years experience overall,"Chanda Nagar,Hyderabad",₹600,80% ,16 Patient Stories,Apollo Clinic
+191,['Hair Transplant Surgeon1'],Dr. Nagaraju D,11 years experience overall,"Kukatpally,Hyderabad",₹500,97% ,14 Patient Stories,Apollo Clinic
+192,['Orthopedist1'],Dr. P.Sharath Babu,19 years experience overall,"Serilingampally,Hyderabad",₹500,92% ,84 Patient Stories,Apollo Clinic
+193,['Cardiologist1'],Dr. Alok Ranjan,17 years experience overall,"Jubilee Hills,Hyderabad",₹1000,60% ,3 Patient Stories,Apollo Clinic
+194,['Neurosurgeon1'],Dr. Bharath Reddy D,13 years experience overall,"Hitech City,Hyderabad",₹500,100% ,1 Patient Story,Apollo Clinic
+195,['Dermatologist1'],Dr. Prathyusha,13 years experience overall,"KPHB,Hyderabad",₹600,97% ,32 Patient Stories,Apollo Clinic
+196,['General Physician1'],Dr. Aashritha Mekala,11 years experience overall,"Attapur,Hyderabad",₹300,100% ,25 Patient Stories,Apollo Clinic
+197,['Ear-Nose-Throat (ENT) Specialist1'],Dr. Chinny Sree M,10 years experience overall,"KPHB,Hyderabad",₹750,NaN,NaN,Apollo Clinic
+198,['Rheumatologist'],Dr. Rooma Sinha,32 years experience overall,"Jubilee Hills,Hyderabad",₹1000,92% ,44 Patient Stories,Apollo Clinic
+199,['Psychiatrist'],Dr. Gautami Nagabhirava,9 years experience overall,"Nizampet,Hyderabad",₹600,100% ,6 Patient Stories,Apollo Clinic
+200,['Ear-Nose-Throat (ENT) Specialist1'],Dr. Mohd. A.Rafey,34 years experience overall,"Hyderguda,Hyderabad",₹800,100% ,9 Patient Stories,Apollo Hospital
+201,['General Physician1'],Dr. Raja Rajeswari,44 years experience overall,"Kukatpally,Hyderabad",₹500,91% ,19 Patient Stories,Apollo Hospital
+202,['Dermatologist1'],Dr. Vangallu Padmini Silpa,15 years experience overall,"Kondapur,Hyderabad",₹700,89% ,28 Patient Stories,Apollo Hospital
+203,['Gastroenterologist2'],Dr. Prashant Hegde,22 years experience overall,"Madhapur,Hyderabad",₹750,96% ,121 Patient Stories,Apollo Hospital
+204,['Physiotherapist'],Dr. Pradyut Waghray,34 years experience overall,"Jubilee Hills,Hyderabad",₹1500,87% ,18 Patient Stories,Apollo Hospital
+205,['Cardiologist2'],Dr. Rajagopal V,38 years experience overall,"Jubilee Hills,Hyderabad",₹1000,94% ,10 Patient Stories,Apollo Hospital
+206,['Psychologist'],Dr. S. Bala Ram Babu,23 years experience overall,"Kukatpally,Hyderabad",₹600,86% ,244 Patient Stories,Apollo Hospital
+207,['Gynecologist/Obstetrician1'],Dr. Pratap Chandra Rath,43 years experience overall,"Jubilee Hills,Hyderabad",₹1500,100% ,2 Patient Stories,Apollo Hospital
+208,['Gynecologist/Obstetrician2'],Dr. S Srikanth Reddy,17 years experience overall,"Hitech City,Hyderabad",₹500,98% ,22 Patient Stories,Apollo Hospital
+209,['Gastroenterologist1'],Dr. Jasmin Rath,19 years experience overall,"Jubilee Hills,Hyderabad",₹800,94% ,67 Patient Stories,Apollo Hospital
+210,['Anesthesiologist2'],Dr. Shekhar Reddy Gurrala,28 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,2 Patient Stories,Apollo Hospitals
+211,['Gynecologist/Obstetrician3'],Dr. K. Suma,35 years experience overall,"Kukatpally,Hyderabad",₹700,93% ,145 Patient Stories,Apollo Hospitals
+212,['Orthopedist3'],Dr. Mallpragada Hari Sharma,35 years experience overall,"Hyderguda,Hyderabad",₹500,92% ,7 Patient Stories,Apollo Hospitals
+213,['Gynecologist/Obstetrician1'],Dr. Chandana Galidevara,14 years experience overall,"Kondapur,Hyderabad",₹700,99% ,62 Patient Stories,Apollo Hospitals
+214,['Neurosurgeon2'],Dr. Kaushal Ippili,22 years experience overall,"Jubilee Hills,Hyderabad",₹1200,95% ,92 Patient Stories,Apollo Hospitals
+215,['Nephrologist2'],Dr. J.AL.Ranganath,23 years experience overall,"Hitech City,Hyderabad",₹500,95% ,47 Patient Stories,Apollo Hospitals
+216,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Sriprakash Vinnakota,24 years experience overall,"KPHB,Hyderabad",₹750,83% ,377 Patient Stories,Apollo Hospitals
+217,['Dentist1'],Dr. Arjun Thiruvaipati,11 years experience overall,"Nallagandla,Hyderabad",₹300,100% ,11 Patient Stories,Apollo Hospitals
+218,['Orthopedist1'],Dr. R. Suneel,16 years experience overall,"Hitech City,Hyderabad",₹500,93% ,9 Patient Stories,Apollo Hospitals
+219,['Bariatric Surgeon3'],Dr. Ananda Kumar,30 years experience overall,"Ameerpet,Hyderabad",₹1200,98% ,824 Patient Stories,Apollo Hospitals
+220,['Orthopedist1'],Dr. M.Kaushik Reddy,17 years experience overall,"Jubilee Hills,Hyderabad",₹1000,95% ,25 Patient Stories,Apollo Hospitals
+221,['Neurosurgeon4'],Dr. A.K. Purohit,42 years experience overall,"Ameerpet,Hyderabad",₹800,100% ,18 Patient Stories,Apollo Hospitals
+222,['Internal Medicine5'],Dr. Vinod Kumar Bhargava,58 years experience overall,"Jubilee Hills,Hyderabad",₹1500,100% ,4 Patient Stories,Apollo Hospitals
+223,['Urologist3'],Dr. Rama Sanjay Y,32 years experience overall,"Ameerpet,Hyderabad",₹700,76% ,25 Patient Stories,Apollo Hospitals
+224,['Pulmonologist4'],Dr. Qamar Hussain Ansari,49 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,3 Patient Stories,Apollo Hospitals
+225,['Nephrologist1'],Dr. Aswini Kumar Panigrahi,18 years experience overall,"Jubilee Hills,Hyderabad",₹1000,92% ,6 Patient Stories,Apollo Hospitals
+226,['Cardiologist4'],Dr. Venkata Rayudu Nekkanti,47 years experience overall,"Jubilee Hills,Hyderabad",₹700,83% ,12 Patient Stories,Apollo Hospitals
+227,['Orthopedist5'],Dr. Jairamchander Pingle,51 years experience overall,"Jubilee Hills,Hyderabad",₹1000,94% ,10 Patient Stories,Apollo Hospitals
+228,['Reproductive Endocrinologist (Infertility)1'],Dr. Vimee Bindra,15 years experience overall,"Jubilee Hills,Hyderabad",₹2000,98% ,227 Patient Stories,Apollo Hospitals
+229,['Cardiologist4'],Dr. Tripti Deb,46 years experience overall,"Jubilee Hills,Hyderabad",₹1000,65% ,17 Patient Stories,Apollo Hospitals
+230,['Pulmonologist2'],Dr. Mallikarjun Rao,21 years experience overall,"Hyderguda,Hyderabad",₹600,100% ,4 Patient Stories,Apollo Hospital
+231,['Urologist2'],Dr. C Raveendra Reddy,21 years experience overall,"Miyapur,Hyderabad",₹600,93% ,36 Patient Stories,Apollo Hospital
+232,['Ear-Nose-Throat (ENT) Specialist3'],Dr. Ranbeer Singh,38 years experience overall,"Himayat Nagar,Hyderabad",₹900,95% ,118 Patient Stories,Apollo Hospital
+233,['Urologist4'],Dr. G.C.Malakondaiah,44 years experience overall,"Lakdikapul,Hyderabad",₹950,100% ,6 Patient Stories,Apollo Hospital
+234,['Cardiologist4'],Dr. (Col) Sitaram M,45 years experience overall,"Secunderabad,Hyderabad",₹800,100% ,12 Patient Stories,Apollo Hospital
+235,['Pediatrician1'],Dr. Taheer Shaik,17 years experience overall,"Kondapur,Hyderabad",₹700,100% ,3 Patient Stories,Apollo Hospital
+236,['Urologist2'],Dr. Sanjay Sinha,27 years experience overall,"Hyderguda,Hyderabad",₹1000,95% ,19 Patient Stories,Apollo Hospital
+237,['Cardiologist2'],Dr. P Sridhar,22 years experience overall,"Hitech City,Hyderabad",₹700,100% ,17 Patient Stories,Apollo Hospital
+238,['Orthopedist4'],Dr. G Durga Rao,29 years experience overall,"Banjara Hills,Hyderabad",₹750,97% ,112 Patient Stories,Apollo Hospital
+239,['Gynecologist/Obstetrician2'],Dr. S.Krishna Reddy,44 years experience overall,"Jubilee Hills,Hyderabad",₹1000,91% ,7 Patient Stories,Apollo Hospital
+240,['Ophthalmologist4'],Dr. Sree Kumar Reddy,40 years experience overall,"Jubilee Hills,Hyderabad",₹800,95% ,8 Patient Stories,Apollo Hospitals
+241,['Gynecologist/Obstetrician3'],Dr. Ramesh Srinivasan,27 years experience overall,"Jubilee Hills,Hyderabad",₹800,97% ,18 Patient Stories,Apollo Hospitals
+242,['Gastroenterologist2'],Dr. Rooma Sinha,32 years experience overall,"Jubilee Hills,Hyderabad",₹1000,92% ,44 Patient Stories,Apollo Hospitals
+243,['\xa0Ayurveda4'],Dr. S Sarangapani,43 years experience overall,"Erragadda,Hyderabad",₹500,99% ,146 Patient Stories,Apollo Hospitals
+244,['Laparoscopic Surgeon2'],Dr. Ramesh Vasudevan,25 years experience overall,"Jubilee Hills,Hyderabad",₹800,95% ,16 Patient Stories,Apollo Hospitals
+245,['Nephrologist4'],Dr. Somasekhar M,42 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,5 Patient Stories,Apollo Hospitals
+246,['Pediatric Surgeon2'],Dr. Yoga Nagender M,25 years experience overall,"Jubilee Hills,Hyderabad",₹800,88% ,40 Patient Stories,Apollo Hospitals
+247,['Cardiac Surgeon2'],Dr. Pramod Reddy Kandakure,27 years experience overall,"Hitech City,Hyderabad",₹500,100% ,12 Patient Stories,Apollo Hospitals
+248,['Cardiologist4'],Dr. P. Seshagiri Rao,46 years experience overall,"Jubilee Hills,Hyderabad",₹1000,83% ,1 Patient Story,Apollo Hospitals
+249,['Gynecologist/Obstetrician1'],Dr. Shalni .S,12 years experience overall,"Madhapur,Hyderabad",₹600,96% ,56 Patient Stories,Apollo Hospitals
+250,['Orthopedist2'],Dr. Satish Reddy Gandavarapu,28 years experience overall,"Ameerpet,Hyderabad",₹500,90% ,39 Patient Stories,Aster Prime Hospital
+251,['Urologist4'],Dr. Subramanyam Kolanukuduru,41 years experience overall,"Jubilee Hills,Hyderabad",₹1000,95% ,14 Patient Stories,Aster Prime Hospital
+252,['Urologist3'],Dr. KVR Prasad,35 years experience overall,"Hitech City,Hyderabad",₹500,89% ,37 Patient Stories,Aster Prime Hospital
+253,['Cardiologist2'],Dr. Gokul Reddy,27 years experience overall,"Jubilee Hills,Hyderabad",₹1000,97% ,32 Patient Stories,Aster Prime Hospital
+254,['GastroIntestinal Surgeon2'],Dr. Bharat Kumar Nara,21 years experience overall,"Lakdikapul,Hyderabad",₹800,97% ,13 Patient Stories,Aster Prime Hospital
+255,['Laparoscopic Surgeon3'],Dr. Rajnesh Chander Reddy,38 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,2 Patient Stories,Aster Prime Hospital
+256,['Diabetologist3'],Dr. Rabinder Nath Mehrotra,35 years experience overall,"Jubilee Hills,Hyderabad",₹1000,82% ,11 Patient Stories,Aster Prime Hospital
+257,['Cardiothoracic Surgeon4'],Dr. AGK Gokhale,41 years experience overall,"Jubilee Hills,Hyderabad",₹1500,92% ,2 Patient Stories,Aster Prime Hospital
+258,['Urologist3'],Dr. A V Ravi Kumar,35 years experience overall,"Hitech City,Hyderabad",₹500,95% ,26 Patient Stories,Aster Prime Hospital
+259,['Gynecologist/Obstetrician2'],Dr. Anuradha Panda,27 years experience overall,"Jubilee Hills,Hyderabad",₹1000,89% ,20 Patient Stories,Aster Prime Hospital
+260,['General Surgeon4'],Dr. Pinjala Ramakrishna,40 years experience overall,"Jubilee Hills,Hyderabad",₹1000,88% ,13 Patient Stories,Apollo Hospitals
+261,['General Surgeon1'],Dr. CH. Venkata Pavan Kumar,18 years experience overall,"Hitech City,Hyderabad",₹500,87% ,14 Patient Stories,Apollo Hospitals
+262,['Orthopedist2'],Dr. A Mohan Krishna,21 years experience overall,"Jubilee Hills,Hyderabad",₹1000,99% ,132 Patient Stories,Apollo Hospitals
+263,['Ear-Nose-Throat (ENT) Specialist3'],Dr. EC Vinaya Kumar,35 years experience overall,"Jubilee Hills,Hyderabad",₹800,80% ,6 Patient Stories,Apollo Hospitals
+264,['Cardiothoracic Surgeon3'],Dr. Dharma Rakshak Ayapati,38 years experience overall,"Secunderabad,Hyderabad",₹800,96% ,21 Patient Stories,Apollo Hospitals
+265,['Psychologist3'],Dr. Namita Singh   (PhD),32 years experience overall,"Jubilee Hills,Hyderabad",₹1700,100% ,4 Patient Stories,Apollo Hospitals
+266,['Laparoscopic Surgeon3'],Dr. Anand K Reddy,31 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,NaN,Apollo Hospitals
+267,['Ophthalmologist3'],Dr. Indumathy T Ramachandran,34 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,6 Patient Stories,Apollo Hospitals
+268,['Gynecologist/Obstetrician2'],Dr. Lavanya. B,21 years experience overall,"Madhapur,Hyderabad",₹600,89% ,13 Patient Stories,Apollo Hospitals
+269,['Gynecologist/Obstetrician3'],Dr. Revathy Ramaswamy,34 years experience overall,"Secunderabad,Hyderabad",₹800,95% ,42 Patient Stories,Apollo Hospitals
+270,['Thoracic (Chest) Surgeon4'],Dr. Vijay Dikshit,49 years experience overall,"Jubilee Hills,Hyderabad",₹1000,82% ,6 Patient Stories,Apollo Hospitals
+271,['Endocrinologist1'],Dr. Ravi Kumar,19 years experience overall,"KPHB,Hyderabad",₹1000,94% ,1423 Patient Stories,Apollo Hospitals
+272,['Cardiologist2'],Dr. Anil Krishna Gundala,21 years experience overall,"Hitech City,Hyderabad",₹500,94% ,10 Patient Stories,Apollo Hospitals
+273,['Nephrologist2'],Dr. Kamal Kiran,29 years experience overall,"Hitech City,Hyderabad",₹1000,94% ,3 Patient Stories,Apollo Hospitals
+274,['Nephrologist3'],Dr. Dhakshina Murthy,36 years experience overall,"Hyderguda,Hyderabad",Free Consultation,100% ,2 Patient Stories,Apollo Hospitals
+275,['Hematologist2'],Dr. Padmaja Lokireddy,25 years experience overall,"Jubilee Hills,Hyderabad",₹1000,83% ,7 Patient Stories,Apollo Hospitals
+276,['Pediatrician2'],Dr. Vishnuvardhan Reddy M,28 years experience overall,"Jubilee Hills,Hyderabad",₹600,72% ,30 Patient Stories,Apollo Hospitals
+277,['Cardiologist3'],Dr. R. Balaji,34 years experience overall,"Hitech City,Hyderabad",₹700,97% ,106 Patient Stories,Apollo Hospitals
+278,['Dentist3'],Dr. M. S. Sushma Susik,32 years experience overall,"Mehdipatnam,Hyderabad",₹300,98% ,431 Patient Stories,Apollo Hospitals
+279,['Urologist3'],Dr. DVSLN Sharma,33 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,6 Patient Stories,Apollo Hospitals
+280,['Ophthalmologist3'],Dr. Rajesh Fogla,30 years experience overall,"Jubilee Hills,Hyderabad",₹800,95% ,9 Patient Stories,Apollo Hospitals
+281,['Cardiologist3'],Dr. E A Padma Kumar,37 years experience overall,"Hitech City,Hyderabad",₹700,92% ,11 Patient Stories,Apollo Hospitals
+282,['Ophthalmologist3'],Dr. Shikha Fogla,31 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,2 Patient Stories,Apollo Hospitals
+283,['Cardiologist3'],Dr. Manoj Kumar Agarwala,33 years experience overall,"Jubilee Hills,Hyderabad",₹1200,90% ,5 Patient Stories,Apollo Hospitals
+284,['Ear-Nose-Throat (ENT) Specialist1'],Dr. D.Vidyasagar,22 years experience overall,"Secunderabad,Hyderabad",₹800,99% ,165 Patient Stories,Apollo Hospitals
+285,['Cardiothoracic Surgeon2'],Dr. Krishna Prasad A R,29 years experience overall,"Hitech City,Hyderabad",₹500,71% ,5 Patient Stories,Apollo Hospitals
+286,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Nadeem Qadri,14 years experience overall,"Tolichowki,Hyderabad",₹500,99% ,163 Patient Stories,Apollo Hospitals
+287,['Dentist1'],Dr. Radha Shah,28 years experience overall,"Jubilee Hills,Hyderabad",₹1000,86% ,14 Patient Stories,Apollo Hospitals
+288,['Dermatologist2'],Dr. Sarika P,17 years experience overall,"Banjara Hills,Hyderabad",₹350,99% ,115 Patient Stories,Apollo Hospitals
+289,['Dentist1'],Dr. Vemuru sudhakar Prasad,42 years experience overall,"Jubilee Hills,Hyderabad",₹1500,64% ,8 Patient Stories,Apollo Hospitals
+290,['Plastic Surgeon4'],Dr. Amitha Indersen,19 years experience overall,"Jubilee Hills,Hyderabad",₹600,83% ,3 Patient Stories,Apollo Hospitals
+291,['Gynecologist/Obstetrician1'],Dr. Vijay Bandikatla,26 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,5 Patient Stories,Apollo Hospitals
+292,['Pain Management Specialist2'],Dr. Deepika Sirineni,10 years experience overall,"Hyderguda,Hyderabad",₹600,100% ,6 Patient Stories,Apollo Hospitals
+293,['Neurologist1'],Dr. L Kiran Kumar   (Physiotherapist),17 years experience overall,"KPHB,Hyderabad",₹300,98% ,180 Patient Stories,Apollo Hospitals
+294,['Physiotherapist1'],Dr. Chandrashekhar Reddy,24 years experience overall,"Chanda Nagar,Hyderabad",₹300,98% ,10 Patient Stories,Apollo Hospitals
+295,['Dentist2'],Dr. Sanjai Addla,26 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,10 Patient Stories,Apollo Hospitals
+296,['Radiologist1'],Dr. Balaji Patel,19 years experience overall,"Jubilee Hills,Hyderabad",₹500,93% ,13 Patient Stories,Apollo Hospitals
+297,['Urologist2'],Dr. Seshasaina Reddy,22 years experience overall,"Madhapur,Hyderabad",₹1500,97% ,295 Patient Stories,Apollo Hospitals
+298,['\xa0Homoeopath2'],Dr. Sai Lakshmi Daayana,23 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,13 Patient Stories,Apollo Hospitals
+299,['Oncologist2'],Dr. Ravi Kumar P,22 years experience overall,"Hitech City,Hyderabad",₹500,86% ,5 Patient Stories,Apollo Hospitals
+300,['Orthopedist2'],Mr. Neela Sandeep,14 years experience overall,"Chanda Nagar,Hyderabad",₹300,97% ,18 Patient Stories,Mythri Speech And Hearing Clinic
+301,['Audiologist1'],Dr. Srinivas R Bogavalli,18 years experience overall,"Manikonda,Hyderabad",₹300,98% ,45 Patient Stories,Mythri Speech And Hearing Clinic
+302,['Dentist1'],Dr. Somasekhar Reddy. N,39 years experience overall,"Jubilee Hills,Hyderabad",₹1000,75% ,8 Patient Stories,Mythri Speech And Hearing Clinic
+303,['Orthopedist3'],Dr. Rajesh Reddy Chenna,24 years experience overall,"Jubilee Hills,Hyderabad",₹1000,76% ,12 Patient Stories,Mythri Speech And Hearing Clinic
+304,['Neurologist2'],Dr. Krishna Kiran Eachempati,22 years experience overall,"Hitech City,Hyderabad",₹500,68% ,12 Patient Stories,Mythri Speech And Hearing Clinic
+305,['Orthopedist2'],Dr. Raghupathi Rao Nandanavanam,49 years experience overall,"Jubilee Hills,Hyderabad",₹800,67% ,3 Patient Stories,Mythri Speech And Hearing Clinic
+306,['General Surgeon4'],Dr. J. Rakee Purnima,14 years experience overall,"LB Nagar,Hyderabad",₹400,98% ,217 Patient Stories,Mythri Speech And Hearing Clinic
+307,['Dermatologist1'],Dr. Badri Narayana,40 years experience overall,"Jubilee Hills,Hyderabad",₹1000,83% ,5 Patient Stories,Mythri Speech And Hearing Clinic
+308,['Cardiologist4'],Dr. B. Sudhakar,47 years experience overall,"Ameerpet,Hyderabad",₹500,100% ,5 Patient Stories,Mythri Speech And Hearing Clinic
+309,['Nephrologist4'],Dr. Chinnababu Sunkavalli,24 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,2 Patient Stories,Mythri Speech And Hearing Clinic
+310,['Oncologist2'],Dr. Amitav Ray,32 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,1 Patient Story,Apollo Hospitals
+311,['General Surgeon3'],Dr. Swathi Thaduri,12 years experience overall,"Nallagandla,Hyderabad",₹500,100% ,12 Patient Stories,Apollo Hospitals
+312,['Gynecologist/Obstetrician1'],Dr. K.M.K Reddy P,25 years experience overall,"Jubilee Hills,Hyderabad",₹1000,81% ,6 Patient Stories,Apollo Hospitals
+313,['Cardiologist2'],Dr. Andal Reddy,23 years experience overall,"Manikonda,Hyderabad",₹500,95% ,84 Patient Stories,Apollo Hospitals
+314,['Gynecologist/Obstetrician2'],Dr. C Raja Krishna Prasad,31 years experience overall,"Hyderguda,Hyderabad",₹1000,83% ,5 Patient Stories,Apollo Hospitals
+315,['Bariatric Surgeon3'],Dr. Srinivas Seshabhattaru,21 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,3 Patient Stories,Apollo Hospitals
+316,['General Surgeon2'],Dr. V.K.Srinagesh,37 years experience overall,"Jubilee Hills,Hyderabad",₹1000,71% ,1 Patient Story,Apollo Hospitals
+317,['Nephrologist3'],Dr. Tarun Kumar Saha,36 years experience overall,"Secunderabad,Hyderabad",₹1000,90% ,9 Patient Stories,Apollo Hospitals
+318,['Plastic Surgeon3'],Dr. Pavan Kumar Bichal,35 years experience overall,"Jubilee Hills,Hyderabad",₹1000,80% ,3 Patient Stories,Apollo Hospitals
+319,['Pain Management Specialist3'],Dr. K Sravani Reddy,12 years experience overall,"Karkhana,Hyderabad",₹300,98% ,66 Patient Stories,Apollo Hospitals
+320,['Dentist1'],Dr. P. Siva Charan Reddy,17 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,4 Patient Stories,Apollo Hospitals
+321,['Gynecologist/Obstetrician1'],Dr. Puja Lavania,17 years experience overall,"Chanda Nagar,Hyderabad",₹400,94% ,146 Patient Stories,Apollo Hospitals
+322,['Laparoscopic Surgeon1'],Dr. B. Chaithanya,16 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,4 Patient Stories,Apollo Hospitals
+323,['Pulmonologist1'],Dr. V Surya Prakash Rao,27 years experience overall,"Hitech City,Hyderabad",₹900,85% ,28 Patient Stories,Apollo Hospitals
+324,['Orthopedist2'],Dr. Adusumilli Gopinath,24 years experience overall,"Gachibowli,Hyderabad",₹500,98% ,300 Patient Stories,Apollo Hospitals
+325,['Dentist2'],Dr. Nithin Annarapu,17 years experience overall,"Hitech City,Hyderabad",₹500,98% ,13 Patient Stories,Apollo Hospitals
+326,['Cardiologist1'],Dr. Sandeep Nayani,16 years experience overall,"Jubilee Hills,Hyderabad",₹800,95% ,8 Patient Stories,Apollo Hospitals
+327,['Neurologist1'],Dr. Sridhar Reddy Baddam,15 years experience overall,"Jubilee Hills,Hyderabad",₹800,92% ,6 Patient Stories,Apollo Hospitals
+328,['Radiologist1'],Dr. Chandrakant Tarke,15 years experience overall,"Jubilee Hills,Hyderabad",₹800,85% ,10 Patient Stories,Apollo Hospitals
+329,['Pulmonologist1'],Dr. Rachna Vinaya Kumar,19 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,2 Patient Stories,Apollo Hospitals
+330,['Gynecologist/Obstetrician1'],Dr. Rachna Vinaya Kumar,19 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,2 Patient Stories,Apollo Hospitals
+331,['Ophthalmologist1'],Dr. B Varun Rao,18 years experience overall,"Hitech City,Hyderabad",₹650,92% ,90 Patient Stories,Apollo Hospitals
+332,['Gastroenterologist1'],Dr. S.V.S Sreedhar,16 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,2 Patient Stories,Apollo Hospitals
+333,['Pediatrician1'],Dr. Samiya Razvi,34 years experience overall,"Jubilee Hills,Hyderabad",₹1200,100% ,1 Patient Story,Apollo Hospitals
+334,['Pediatrician3'],Dr. M M Shareef,25 years experience overall,"Madhapur,Hyderabad",₹600,96% ,329 Patient Stories,Apollo Hospitals
+335,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Sarada Mallemala,41 years experience overall,"Jubilee Hills,Hyderabad",₹700,100% ,3 Patient Stories,Apollo Hospitals
+336,['Gynecologist/Obstetrician4'],Dr. Murahari P,16 years experience overall,"Manikonda,Hyderabad",₹500,94% ,11 Patient Stories,Apollo Hospitals
+337,['Spine Surgeon1'],Dr. Sanjeev Kumar E,26 years experience overall,"Jubilee Hills,Hyderabad",₹800,93% ,16 Patient Stories,Apollo Hospitals
+338,['Cardiologist2'],Dr. B RAJEEV REDDY,14 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,4 Patient Stories,Apollo Hospitals
+339,['Orthopedist1'],Dr. Sridevi Paladugu,23 years experience overall,"Jubilee Hills,Hyderabad",₹800,86% ,8 Patient Stories,Apollo Hospitals
+340,['Endocrinologist2'],Dr. Sridevi Paladugu,23 years experience overall,"Jubilee Hills,Hyderabad",₹800,86% ,8 Patient Stories,Apollo Sugar Clinic
+341,['Dermatologist1'],Dr. Ajay Kumar Paruchuri,20 years experience overall,"Kukatpally,Hyderabad",₹600,95% ,158 Patient Stories,Apollo Sugar Clinic
+342,['Spine Surgeon2'],Dr. Siddhartha Maredupaka,11 years experience overall,"Lakdikapul,Hyderabad",₹800,99% ,165 Patient Stories,Apollo Sugar Clinic
+343,['Orthopedist1'],Dr. Ravi Vemagiri Andrews,32 years experience overall,"Jubilee Hills,Hyderabad",₹1200,100% ,2 Patient Stories,Apollo Sugar Clinic
+344,['Nephrologist3'],Dr. Sushmitha,28 years experience overall,"Ameerpet,Hyderabad",₹600,95% ,25 Patient Stories,Apollo Sugar Clinic
+345,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Arun Vontela,14 years experience overall,"Miyapur,Hyderabad",₹700,100% ,8 Patient Stories,Apollo Sugar Clinic
+346,['Gastroenterologist2'],Dr. B Prabhakar,28 years experience overall,"Hyderguda,Hyderabad",₹600,58% ,10 Patient Stories,Apollo Sugar Clinic
+347,['Orthopedist1'],Dr. Samantha Sathyakumar,18 years experience overall,"Jubilee Hills,Hyderabad",₹700,100% ,1 Patient Story,Apollo Sugar Clinic
+348,['Oncologist4'],Dr. Veerendra Mudnoor,18 years experience overall,"Kondapur,Hyderabad",₹700,91% ,40 Patient Stories,Apollo Sugar Clinic
+349,['Endocrinologist1'],Dr. S.V.S.S Prasad,41 years experience overall,"Jubilee Hills,Hyderabad",₹1200,50% ,3 Patient Stories,Apollo Sugar Clinic
+350,['Oncologist4'],Dr. Narreddy Manohar Reddy,27 years experience overall,"Hyderguda,Hyderabad",₹500,100% ,3 Patient Stories,Apollo Hospital
+351,['General Surgeon2'],Dr. Md Safiuddin Quraishi,10 years experience overall,"Tolichowki,Hyderabad",₹300,99% ,106 Patient Stories,Apollo Hospital
+352,['Dentist1'],Dr. Yugandhar,21 years experience overall,"KPHB,Hyderabad",₹300,95% ,825 Patient Stories,Apollo Hospital
+353,['Dentist2'],Dr. Yalakanti Raghavendra Babu,25 years experience overall,"Lakdikapul,Hyderabad",₹950,100% ,1 Patient Story,Apollo Hospital
+354,['GastroIntestinal Surgeon2'],Dr. P. Sharath Chandra Kaushik,19 years experience overall,"Hitech City,Hyderabad",₹500,33% ,3 Patient Stories,Apollo Hospital
+355,['General Surgeon1'],Dr. A.Sharath Reddy,18 years experience overall,"Hitech City,Hyderabad",₹900,94% ,8 Patient Stories,Apollo Hospital
+356,['Cardiologist1'],Dr. Siddartha Reddy,15 years experience overall,"Madinaguda,Hyderabad",₹700,94% ,530 Patient Stories,Apollo Hospital
+357,['Neurologist1'],Dr. Anand Ramamurthy,27 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,1 Patient Story,Apollo Hospital
+358,['GastroIntestinal Surgeon2'],Dr. Prameela Sekhar K,37 years experience overall,"Jubilee Hills,Hyderabad",₹800,89% ,17 Patient Stories,Apollo Hospital
+359,['Gynecologist/Obstetrician3'],Dr. Pratibha Narayan,28 years experience overall,"Banjara Hills,Hyderabad",₹750,91% ,171 Patient Stories,Apollo Hospital
+360,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Soundararajan Periyasamy,47 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,2 Patient Stories,Apollo Hospitals
+361,['Psychologist'],Dr. Leenatha Reddy J,27 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,NaN,Apollo Hospitals
+362,['Gynecologist/Obstetrician1'],Dr. Shravya G,17 years experience overall,"Jubilee Hills,Hyderabad",₹800,92% ,203 Patient Stories,Apollo Hospitals
+363,['Pediatrician2'],Dr. B Kiranmayee,14 years experience overall,"Nallagandla,Hyderabad",₹550,96% ,230 Patient Stories,Apollo Hospitals
+364,['Psychiatrist1'],Dr. Bhanu Prasad. K,13 years experience overall,"Hyderguda,Hyderabad",₹800,80% ,4 Patient Stories,Apollo Hospitals
+365,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Venu Kumari,18 years experience overall,"Chanda Nagar,Hyderabad",₹500,86% ,908 Patient Stories,Apollo Hospitals
+366,['Urologist3'],Dr. Shyam Kalavalapalli,29 years experience overall,"KPHB,Hyderabad",₹900,97% ,328 Patient Stories,Apollo Hospitals
+367,['Neurologist2'],Dr. Sunil Kumar Swain,24 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,NaN,Apollo Hospitals
+368,['Gynecologist/Obstetrician2'],Dr. P L	Chary,37 years experience overall,"Hyderguda,Hyderabad",₹1500,92% ,10 Patient Stories,Apollo Hospitals
+369,['General Physician2'],Dr. Indira,33 years experience overall,"Ameerpet,Hyderabad",₹600,86% ,6 Patient Stories,Apollo Hospitals
+370,['Dermatologist3'],Dr. Nikhila Pinjala,10 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,2 Patient Stories,Apollo Hospitals
+371,['Vascular Surgeon1'],Dr. Tapaswi Krishna,13 years experience overall,"Lakdikapul,Hyderabad",₹800,100% ,10 Patient Stories,Apollo Hospitals
+372,['Dermatologist2'],Dr. Ishani Chakravarty,20 years experience overall,"Secunderabad,Hyderabad",₹700,90% ,81 Patient Stories,Apollo Hospitals
+373,['Pulmonologist1'],Dr. Sruthi Alla,12 years experience overall,"Madhapur,Hyderabad",₹750,97% ,309 Patient Stories,Apollo Hospitals
+374,['Dermatologist1'],Dr. S Rajesh Reddy,18 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,2 Patient Stories,Apollo Hospitals
+375,['Neurologist1'],Dr. Shanthi Reddy V,35 years experience overall,"Jubilee Hills,Hyderabad",₹800,60% ,3 Patient Stories,Apollo Hospitals
+376,['Dermatologist3'],Dr. Anup Kumar Lahari,39 years experience overall,"Secunderabad,Hyderabad",₹600,86% ,10 Patient Stories,Apollo Hospitals
+377,['Gynecologist/Obstetrician3'],Dr. Kondal Rao,27 years experience overall,"Lakdikapul,Hyderabad",₹800,100% ,1 Patient Story,Apollo Hospitals
+378,['Cardiologist2'],Dr. Sudhir Naik,30 years experience overall,"Jubilee Hills,Hyderabad",₹1000,75% ,4 Patient Stories,Apollo Hospitals
+379,['Gynecologist/Obstetrician3'],Dr. K. Amrutha,12 years experience overall,"Chanda Nagar,Hyderabad",₹400,93% ,20 Patient Stories,Apollo Hospitals
+380,['Cardiologist1'],Dr. K. Amrutha,12 years experience overall,"Chanda Nagar,Hyderabad",₹400,93% ,20 Patient Stories,Kadimi Nursing Home
+381,['Gynecologist/Obstetrician1'],Dr. Lakshmikanth Reddy,17 years experience overall,"Hitech City,Hyderabad",₹500,79% ,6 Patient Stories,Kadimi Nursing Home
+382,['General Physician1'],Dr. Alekya Singapore,10 years experience overall,"Kondapur,Hyderabad",₹700,90% ,28 Patient Stories,Kadimi Nursing Home
+383,['Dermatologist1'],Dr. Saguna Puttoo,25 years experience overall,"Jubilee Hills,Hyderabad",₹600,94% ,99 Patient Stories,Kadimi Nursing Home
+384,['Dermatologist2'],Dr. V Venkata Sampath,19 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,NaN,Kadimi Nursing Home
+385,['Oncologist1'],Dr. Ravi Charan Palwai,27 years experience overall,"Hitech City,Hyderabad",₹500,88% ,28 Patient Stories,Kadimi Nursing Home
+386,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Manish C Varma,19 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,1 Patient Story,Kadimi Nursing Home
+387,['Oncologist1'],Dr. Koteswar Rao,31 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,3 Patient Stories,Kadimi Nursing Home
+388,['Pediatrician3'],Dr. Vandana Hegde,20 years experience overall,"Hitech City,Hyderabad",₹800,93% ,884 Patient Stories,Kadimi Nursing Home
+389,['Gynecologist/Obstetrician2'],Dr. Sajjan R Agarwal,45 years experience overall,"Panjagutta,Hyderabad",₹700,92% ,297 Patient Stories,Kadimi Nursing Home
+390,['Dermatologist4'],Dr. G L Sitara,13 years experience overall,"Madinaguda,Hyderabad",₹500,97% ,281 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+391,['Dermatologist1'],Dr. Rahul Lath,30 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Dr Sitara Advanced Skin And Hair Clinic
+392,['Neurosurgeon3'],Dr. B.S.V. Raju,31 years experience overall,"Ameerpet,Hyderabad",₹650,76% ,44 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+393,['\xa0Homoeopath1'],Dr. Satish Erra,14 years experience overall,"Dilsukhnagar,Hyderabad",₹500,98% ,579 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+394,['Neurosurgeon3'],Dr. Kiran Peddi,27 years experience overall,"Gachibowli,Hyderabad",₹800,98% ,110 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+395,['Gastroenterologist2'],Dr. Rajasekhar Reddy,29 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,7 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+396,['Pediatrician1'],Dr. Rahul Reddy C,11 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,13 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+397,['General Surgeon2'],Dr. Usha Rani,32 years experience overall,"Ameerpet,Hyderabad",₹500,91% ,10 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+398,['Internal Medicine3'],Dr. P Tanuja,14 years experience overall,"Ameerpet,Hyderabad",₹500,100% ,6 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+399,['Gynecologist/Obstetrician1'],Dr. Nidhi Nair,42 years experience overall,"Chanda Nagar,Hyderabad",₹650,88% ,46 Patient Stories,Dr Sitara Advanced Skin And Hair Clinic
+400,['Gynecologist/Obstetrician4'],Dr. Harika Ramisetty,14 years experience overall,"Madhapur,Hyderabad",₹600,99% ,58 Patient Stories,TruSkin Dermatology Lasers and Anti-Aging Clinic
+401,['Ophthalmologist2'],Dr. Mallika Goyal,26 years experience overall,"Jubilee Hills,Hyderabad",₹800,67% ,6 Patient Stories,TruSkin Dermatology Lasers and Anti-Aging Clinic
+402,['Dermatologist1'],Dr. V Bramha Prasad,20 years experience overall,"Secunderabad,Hyderabad",₹600,100% ,NaN,TruSkin Dermatology Lasers and Anti-Aging Clinic
+403,['Neurosurgeon2'],Dr. Suneetha Narreddy,26 years experience overall,"Jubilee Hills,Hyderabad",₹1500,NaN,NaN,TruSkin Dermatology Lasers and Anti-Aging Clinic
+404,['Internal Medicine2'],Dr. Rama Krishna Prasad. CH,11 years experience overall,"Manikonda,Hyderabad",₹600,100% ,23 Patient Stories,TruSkin Dermatology Lasers and Anti-Aging Clinic
+405,['Oncologist1'],Dr. Satish kotla,34 years experience overall,"Kondapur,Hyderabad",₹900,100% ,7 Patient Stories,TruSkin Dermatology Lasers and Anti-Aging Clinic
+406,['Gastroenterologist1'],Dr. Sarathchandra Gorantla,16 years experience overall,"Jubilee Hills,Hyderabad",₹1200,78% ,8 Patient Stories,TruSkin Dermatology Lasers and Anti-Aging Clinic
+407,['Internal Medicine3'],Dr. Shridharan,23 years experience overall,"Hyderguda,Hyderabad",₹1000,94% ,5 Patient Stories,TruSkin Dermatology Lasers and Anti-Aging Clinic
+408,['Plastic Surgeon2'],Dr. Guru Karna Vemula,20 years experience overall,"Manikonda,Hyderabad",₹1000,100% ,35 Patient Stories,TruSkin Dermatology Lasers and Anti-Aging Clinic
+409,['Plastic Surgeon2'],Dr. Swetha Kasturi,16 years experience overall,"KPHB,Hyderabad",₹600,100% ,127 Patient Stories,TruSkin Dermatology Lasers and Anti-Aging Clinic
+410,['Pulmonologist1'],Dr. Ravinder Raju,25 years experience overall,"Kukatpally,Hyderabad",₹300,71% ,4 Patient Stories,Positive Homeopathy
+411,['\xa0Homoeopath2'],Dr. Naveen Reddy P,19 years experience overall,"Secunderabad,Hyderabad",₹700,67% ,3 Patient Stories,Positive Homeopathy
+412,['Orthopedist1'],Dr. R Srinivas Reddy,25 years experience overall,"Jubilee Hills,Hyderabad",₹800,50% ,2 Patient Stories,Positive Homeopathy
+413,['Orthopedist2'],Dr. L.Vijay Kumar,36 years experience overall,"Hitech City,Hyderabad",₹500,NaN,NaN,Positive Homeopathy
+414,['Radiologist3'],Dr. Mir Jawad Zar Khan,22 years experience overall,"Attapur,Hyderabad",₹700,97% ,275 Patient Stories,Positive Homeopathy
+415,['Orthopedist2'],Dr. Siddhartha Chakravarthy,21 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,6 Patient Stories,Positive Homeopathy
+416,['Endocrine Surgeon2'],Dr. Sanjay Maitra,26 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,NaN,Positive Homeopathy
+417,['Nephrologist2'],Dr. Ravindranath V S.,38 years experience overall,"Ameerpet,Hyderabad",₹500,75% ,11 Patient Stories,Positive Homeopathy
+418,['Orthopedist3'],Dr. Nikhil Chandoori,14 years experience overall,"KPHB,Hyderabad",₹300,94% ,175 Patient Stories,Positive Homeopathy
+419,['\xa0Homoeopath1'],Dr. Madhavi Pudi,16 years experience overall,"Balkampet,Hyderabad",₹800,91% ,553 Patient Stories,Positive Homeopathy
+420,['Cardiologist3'],Dr. M R Madhavi,31 years experience overall,"Trimulgherry,Hyderabad",₹300,98% ,61 Patient Stories,Dr. Madhavi's Homeo Clinic
+421,['Ear-Nose-Throat (ENT) Specialist4'],Dr. Chandrasekhar Reddy SV,33 years experience overall,"Secunderabad,Hyderabad",₹700,100% ,2 Patient Stories,Dr. Madhavi's Homeo Clinic
+422,['General Physician1'],Dr. Prakash Kumar,46 years experience overall,"Secunderabad,Hyderabad",₹600,100% ,NaN,Dr. Madhavi's Homeo Clinic
+423,['General Physician1'],Dr. Karthik Pingle,25 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Dr. Madhavi's Homeo Clinic
+424,['Neurologist1'],Dr. Abhishek Katha,14 years experience overall,"Secunderabad,Hyderabad",₹800,100% ,100 Patient Stories,Dr. Madhavi's Homeo Clinic
+425,['Gynecologist/Obstetrician'],Dr. Umanath K Nayak,28 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Dr. Madhavi's Homeo Clinic
+426,['Dermatologist3'],Dr. Ratnam Boola Gnana,26 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Dr. Madhavi's Homeo Clinic
+427,['Pulmonologist1'],Dr. R T S Naik,31 years experience overall,"Hyderguda,Hyderabad",₹1000,80% ,4 Patient Stories,Dr. Madhavi's Homeo Clinic
+428,['Pediatrician1'],Dr. Ravindra Ratolikar,40 years experience overall,"Narayanguda,Hyderabad",₹500,98% ,36 Patient Stories,Dr. Madhavi's Homeo Clinic
+429,['Dermatologist'],Dr. V.Shirisha,17 years experience overall,"Kondapur,Hyderabad",₹650,93% ,79 Patient Stories,Dr. Madhavi's Homeo Clinic
+430,['Dermatologist1'],Dr. Ravindranath Reddy V,35 years experience overall,"Himayat Nagar,Hyderabad",₹500,94% ,254 Patient Stories,Clinic 2000
+431,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Prashant K Vaidya,14 years experience overall,"Chanda Nagar,Hyderabad",₹500,95% ,854 Patient Stories,Clinic 2000
+432,['Cosmetologist3'],Dr. N. Rajasekharam,24 years experience overall,"Ameerpet,Hyderabad",₹600,92% ,13 Patient Stories,Clinic 2000
+433,['Pulmonologist1'],Dr. Archana A,16 years experience overall,"Kukatpally,Hyderabad",₹600,96% ,99 Patient Stories,Clinic 2000
+434,['\xa0Homoeopath1'],Dr. Divyesh Kishen Waghray,14 years experience overall,"Jubilee Hills,Hyderabad",₹500,100% ,1 Patient Story,Clinic 2000
+435,['Pulmonologist1'],Dr. Sai Sudhakar,21 years experience overall,"Lakdikapul,Hyderabad",₹950,100% ,2 Patient Stories,Clinic 2000
+436,['Cardiologist2'],Dr. K N Chandan Kumar,16 years experience overall,"Lakdikapul,Hyderabad",₹800,100% ,3 Patient Stories,Clinic 2000
+437,['Gastroenterologist1'],Dr. Swathi Gogineni,15 years experience overall,"Jubilee Hills,Hyderabad",₹700,80% ,19 Patient Stories,Clinic 2000
+438,['Gynecologist/Obstetrician1'],Dr. Sunitha Ilinani,26 years experience overall,"Banjara Hills,Hyderabad",₹700,96% ,138 Patient Stories,Clinic 2000
+439,['Gynecologist/Obstetrician2'],Dr. Lanka Krishna,42 years experience overall,"Ameerpet,Hyderabad",₹800,94% ,33 Patient Stories,Clinic 2000
+440,['Cardiologist4'],Dr. Madhavi Latha,22 years experience overall,"Chanda Nagar,Hyderabad",₹550,88% ,35 Patient Stories,Apollo Clinic
+441,['Gynecologist/Obstetrician2'],Dr. Puli Vanaja Reddy,19 years experience overall,"Jubilee Hills,Hyderabad",₹2000,67% ,6 Patient Stories,Apollo Clinic
+442,['1'],Dr. Kiran Reddy Chennuri,17 years experience overall,"Gachibowli,Hyderabad",₹600,98% ,235 Patient Stories,Apollo Clinic
+443,['Head and Neck Surgeon2'],Dr. Arsheed Hussain Hakeem,22 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Apollo Clinic
+444,['Orthopedist1'],Dr. Brundavanam Srinivas Sesha Sainadh,33 years experience overall,"Jubilee Hills,Hyderabad",₹800,36% ,10 Patient Stories,Apollo Clinic
+445,['General Surgeon3'],Dr. K.Naga Murali,23 years experience overall,"Miyapur,Hyderabad",₹650,93% ,25 Patient Stories,Apollo Clinic
+446,['Cardiologist2'],Dr. Alok Ranjan,17 years experience overall,"Jubilee Hills,Hyderabad",₹1000,60% ,3 Patient Stories,Apollo Clinic
+447,['Neurosurgeon1'],Dr. Vijay Kumar Chennamchetty,15 years experience overall,"Jubilee Hills,Hyderabad",₹1000,58% ,14 Patient Stories,Apollo Clinic
+448,['Pulmonologist1'],Dr. Sharmila K,27 years experience overall,"Jubilee Hills,Hyderabad",₹600,22% ,8 Patient Stories,Apollo Clinic
+449,['Pediatrician2'],Dr. K. Dayanand,24 years experience overall,"Secunderabad,Hyderabad",₹600,95% ,11 Patient Stories,Apollo Clinic
+450,['Pulmonologist2'],Dr. Vishnu G,12 years experience overall,"Chaitanyapuri,Hyderabad",₹1000,NaN,NaN,Pranahitha Hospital
+451,['\xa0Homoeopath1'],Dr. Anand Agarwal,30 years experience overall,"Chanda Nagar,Hyderabad",₹500,71% ,6 Patient Stories,Pranahitha Hospital
+452,['Oncologist4'],Dr. B Kiranmayee,14 years experience overall,"Nallagandla,Hyderabad",₹550,96% ,230 Patient Stories,Pranahitha Hospital
+453,['Dentist2'],Dr. Ashok K. Alimchandani,34 years experience overall,"Jubilee Hills,Hyderabad",₹1500,52% ,18 Patient Stories,Pranahitha Hospital
+454,['Gastroenterologist2'],Dr. Mounika Ketha,10 years experience overall,"Manikonda,Hyderabad",₹500,98% ,66 Patient Stories,Pranahitha Hospital
+455,['Cardiologist3'],Dr. Rabinder Nath Mehrotra,35 years experience overall,"Jubilee Hills,Hyderabad",₹1000,82% ,11 Patient Stories,Pranahitha Hospital
+456,['\xa0Homoeopath3'],Dr. Rajesh   (Physiotherapist),18 years experience overall,"Gachibowli,Hyderabad",₹700,100% ,16 Patient Stories,Pranahitha Hospital
+457,['Cardiologist4'],Dr. M R Madhavi,31 years experience overall,"Trimulgherry,Hyderabad",₹300,98% ,61 Patient Stories,Pranahitha Hospital
+458,['Orthopedist2'],Dr. Aarti Singh,8 years experience overall,"Karkhana,Hyderabad",₹300,NaN,NaN,Pranahitha Hospital
+459,['General Surgeon3'],Dr. Jagan Mohan Reddy,16 years experience overall,"Kondapur,Hyderabad",₹800,71% ,6 Patient Stories,Pranahitha Hospital
+460,['Physiotherapist1'],Dr. Praveen R. Sirdesai,31 years experience overall,"Secunderabad,Hyderabad",₹800,87% ,13 Patient Stories,Apollo Hospital
+461,['Psychiatrist3'],Dr. Swetha Moravineni,7 years experience overall,"Kondapur,Hyderabad",₹250,100% ,85 Patient Stories,Apollo Hospital
+462,['Urologist2'],Dr. Surendra Kumar Alluri,28 years experience overall,"Kokapet,Hyderabad",₹500,99% ,342 Patient Stories,Apollo Hospital
+463,['\xa0Ayurveda2'],Dr. K Saketh,11 years experience overall,"Lakdikapul,Hyderabad",₹800,NaN,NaN,Apollo Hospital
+464,['Dermatologist'],Dr. Bharath Reddy D,13 years experience overall,"Hitech City,Hyderabad",₹500,100% ,1 Patient Story,Apollo Hospital
+465,['Pediatrician2'],Dr. Bharat Reddy,25 years experience overall,"Moti Nagar,Hyderabad",₹250,98% ,464 Patient Stories,Apollo Hospital
+466,['Gynecologist/Obstetrician3'],Dr. Ashwini Kumar Myneni,15 years experience overall,"Jubilee Hills,Hyderabad",₹1000,89% ,8 Patient Stories,Apollo Hospital
+467,['Gynecologist/Obstetrician1'],Dr. T. Anuradha,32 years experience overall,"KPHB,Hyderabad",₹700,100% ,12 Patient Stories,Apollo Hospital
+468,['General Physician1'],Dr. Deepesh Singh,20 years experience overall,"Kondapur,Hyderabad",₹500,99% ,124 Patient Stories,Apollo Hospital
+469,['Endocrinologist2'],Dr. Varughese Mathai,31 years experience overall,"Jubilee Hills,Hyderabad",₹1000,80% ,2 Patient Stories,Apollo Hospital
+470,['General Surgeon3'],Dr. Koka Ram Babu,41 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Apollo Hospitals
+471,['Ear-Nose-Throat (ENT) Specialist4'],Dr. Raju C H,15 years experience overall,"Chandra Nagar,Hyderabad",₹700,97% ,464 Patient Stories,Apollo Hospitals
+472,['Pulmonologist1'],Dr. Seetharam Kumar D,27 years experience overall,"Nizampet,Hyderabad",₹500,99% ,208 Patient Stories,Apollo Hospitals
+473,['Dentist2'],Dr. T.Praveen Kumar Reddy,22 years experience overall,"KPHB,Hyderabad",₹400,97% ,24 Patient Stories,Apollo Hospitals
+474,['Dentist2'],Dr. Usha Kiran,25 years experience overall,"Vidyanagar,Hyderabad",₹300,99% ,305 Patient Stories,Apollo Hospitals
+475,['Dentist2'],Dr. Ranjith.G,12 years experience overall,"Hitech City,Hyderabad",₹500,100% ,NaN,Apollo Hospitals
+476,['Neurologist1'],Dr. Naveen M V,27 years experience overall,"Lakdikapul,Hyderabad",₹950,100% ,NaN,Apollo Hospitals
+477,['Plastic Surgeon2'],Dr. Nalini Yadala,41 years experience overall,"Jubilee Hills,Hyderabad",₹700,NaN,NaN,Apollo Hospitals
+478,['Oncologist4'],Dr. Sanjeev Singh Yadav,35 years experience overall,"Banjara Hills,Hyderabad",₹650,93% ,62 Patient Stories,Apollo Hospitals
+479,['General Surgeon3'],Dr. M S Madhavi,19 years experience overall,"Miyapur,Hyderabad",₹600,71% ,10 Patient Stories,Apollo Hospitals
+480,['Gynecologist/Obstetrician1'],Dr. Guru Prasanna Lakshmi   (PhD),11 years experience overall,"Nizampet,Hyderabad",₹3000,80% ,7 Patient Stories,CIMHANS
+481,['Ear-Nose-Throat (ENT) Specialist3'],Dr. Rashmi BV,20 years experience overall,"Erragadda,Hyderabad",₹500,100% ,11 Patient Stories,CIMHANS
+482,['Orthopedist2'],Mr. Premnath Balla,21 years experience overall,"Banjara Hills,Hyderabad",₹500,93% ,90 Patient Stories,CIMHANS
+483,['Gynecologist/Obstetrician1'],Dr. Rajeshwari,20 years experience overall,"Kukatpally,Hyderabad",₹700,83% ,496 Patient Stories,CIMHANS
+484,['Oncologist1'],Dr. C Narmada,23 years experience overall,"Shaikpet,Hyderabad",₹500,100% ,10 Patient Stories,CIMHANS
+485,['Dentist2'],Dr. Anup Kumar Lahari,39 years experience overall,"Secunderabad,Hyderabad",₹600,86% ,10 Patient Stories,CIMHANS
+486,['Orthopedist2'],Dr. Rajya Lakshmi,27 years experience overall,"Kondapur,Hyderabad",₹500,100% ,23 Patient Stories,CIMHANS
+487,['\xa0Homoeopath1'],Dr. M V Naveen Reddy,19 years experience overall,"Secunderabad,Hyderabad",₹900,85% ,3 Patient Stories,CIMHANS
+488,['GastroIntestinal Surgeon2'],Dr. Lalith Agarwal,14 years experience overall,"Manikonda,Hyderabad",₹600,99% ,98 Patient Stories,CIMHANS
+489,['Orthopedist2'],Dr. J.AL.Ranganath,23 years experience overall,"Hitech City,Hyderabad",₹500,95% ,47 Patient Stories,CIMHANS
+490,['Dentist1'],Dr. Harsha Nagineni,11 years experience overall,"Chintal,Hyderabad",₹200,100% ,941 Patient Stories,Harsha Dental - Dantam
+491,['Orthopedist2'],Dr. Akhila Sunder,7 years experience overall,"Miyapur,Hyderabad",₹700,100% ,5 Patient Stories,Harsha Dental - Dantam
+492,['Orthopedist'],Dr. Anurag Chitranshi,13 years experience overall,"Ameerpet,Hyderabad",₹600,100% ,5 Patient Stories,Harsha Dental - Dantam
+493,['Plastic Surgeon1'],Dr. Y. Murali Krishna,18 years experience overall,"Ameerpet,Hyderabad",₹700,50% ,4 Patient Stories,Harsha Dental - Dantam
+494,['Neurosurgeon1'],Dr. Sathish Kumar S,17 years experience overall,"Miyapur,Hyderabad",₹500,92% ,140 Patient Stories,Harsha Dental - Dantam
+495,['Ear-Nose-Throat (ENT) Specialist1'],Dr. Kranthi Paladugu,18 years experience overall,"Kukatpally,Hyderabad",₹400,85% ,45 Patient Stories,Harsha Dental - Dantam
+496,['Dentist1'],Dr. Ravi Gurram,16 years experience overall,"Nallagandla,Hyderabad",₹450,99% ,92 Patient Stories,Harsha Dental - Dantam
+497,['Pulmonologist1'],Dr. K Prashanth Kumar,12 years experience overall,"Old Bowenpally,Hyderabad",₹500,99% ,269 Patient Stories,Harsha Dental - Dantam
+498,['Dentist2'],Dr. Praveena,23 years experience overall,"Kondapur,Hyderabad",₹400,97% ,128 Patient Stories,Harsha Dental - Dantam
+499,['Audiologist2'],Mr. Premnath Balla,21 years experience overall,"Banjara Hills,Hyderabad",₹500,93% ,90 Patient Stories,Harsha Dental - Dantam
+500,['Cardiologist1'],Dr. N Siva Prasad Naidu,17 years experience overall,"Hitech City,Hyderabad",₹700,100% ,5 Patient Stories,Medicover Hospitals
+501,['Dentist2'],Dr. Vikas Gowd,25 years experience overall,"Banjara Hills,Hyderabad",₹500,100% ,51 Patient Stories,Medicover Hospitals
+502,['Gynecologist/Obstetrician2'],Dr. Ganga Sireesha,21 years experience overall,"Chanda Nagar,Hyderabad",₹600,93% ,393 Patient Stories,Medicover Hospitals
+503,['Pediatrician1'],Dr. Srikanth Darisetty,13 years experience overall,"Malkajgiri,Hyderabad",₹550,100% ,84 Patient Stories,Medicover Hospitals
+504,['Orthopedist2'],Dr. Balavardhan Reddy,25 years experience overall,"Jubilee Hills,Hyderabad",₹1000,95% ,53 Patient Stories,Medicover Hospitals
+505,['Dentist2'],Dr. Chaitanya Kumar Reddy,26 years experience overall,"Khajaguda,Hyderabad",₹400,98% ,256 Patient Stories,Medicover Hospitals
+506,['\xa0Ayurveda2'],Dr. M. Narasimha,24 years experience overall,"Ameerpet,Hyderabad",₹500,88% ,61 Patient Stories,Medicover Hospitals
+507,['Cardiologist2'],Dr. T Sadanand Reddy,26 years experience overall,"Hitech City,Hyderabad",₹500,100% ,3 Patient Stories,Medicover Hospitals
+508,['Dentist2'],Dr. Sudha Chitumalla,24 years experience overall,"Banjara Hills,Hyderabad",₹400,100% ,29 Patient Stories,Medicover Hospitals
+509,['Dentist2'],Dr. P Venkat Ratna Nag,21 years experience overall,"Banjara Hills,Hyderabad",₹350,99% ,301 Patient Stories,Medicover Hospitals
+510,['Dentist2'],Dr. Praveen R. Sirdesai,31 years experience overall,"Secunderabad,Hyderabad",₹800,87% ,13 Patient Stories,Apollo Hospital
+511,['Gynecologist/Obstetrician2'],Dr. Sarada Mallemala,41 years experience overall,"Jubilee Hills,Hyderabad",₹700,100% ,3 Patient Stories,Apollo Hospital
+512,['Physiotherapist1'],Dr. Prabha Mohan,30 years experience overall,"East Marredpally,Hyderabad",₹1350,100% ,3 Patient Stories,Apollo Hospital
+513,['Ophthalmologist2'],Dr. P. Haritha,17 years experience overall,"Alwal,Hyderabad",₹500,79% ,11 Patient Stories,Apollo Hospital
+514,['Orthopedist1'],Dr. Hormuzd K Vakil,24 years experience overall,"MG Road,Hyderabad",₹500,99% ,67 Patient Stories,Apollo Hospital
+515,['Neurosurgeon2'],Dr. Sharat Kumar P,36 years experience overall,"Jubilee Hills,Hyderabad",₹800,80% ,42 Patient Stories,Apollo Hospital
+516,['Cardiologist2'],Dr. Krishi Kumar Vadla   (Physiotherapist),20 years experience overall,"Nizampet,Hyderabad",₹500,97% ,34 Patient Stories,Apollo Hospital
+517,['General Surgeon2'],Dr. Goutham Kandula,26 years experience overall,"SR Nagar,Hyderabad",₹400,96% ,9 Patient Stories,Apollo Hospital
+518,['Vascular Surgeon2'],Dr. Vijay Kumar,13 years experience overall,"Manikonda,Hyderabad",₹500,NaN,NaN,Apollo Hospital
+519,['Nephrologist1'],Dr. Anuj Amrit Kapadiya,25 years experience overall,"Gachibowli,Hyderabad",₹500,100% ,7 Patient Stories,Apollo Hospital
+520,['Gastroenterologist2'],Dr. V Subramanya Srinivas,23 years experience overall,"Hitech City,Hyderabad",₹500,25% ,2 Patient Stories,Medicover Hospitals
+521,['Cardiologist2'],Dr. Srikanth Guduguntla,26 years experience overall,"Begumpet,Hyderabad",₹300,92% ,85 Patient Stories,Medicover Hospitals
+522,['Dentist2'],Dr. Sanjeev Kumar Khulbey,27 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,2 Patient Stories,Medicover Hospitals
+523,['Plastic Surgeon2'],Dr. K.Balasubrahmanyam,20 years experience overall,"Ameerpet,Hyderabad",₹500,NaN,NaN,Medicover Hospitals
+524,['Dentist1'],Dr. Preeti Maurya,12 years experience overall,"Nallagandla,Hyderabad",₹400,100% ,45 Patient Stories,Medicover Hospitals
+525,['Cardiologist1'],Dr. B V A Ranga Reddy,12 years experience overall,"Manikonda,Hyderabad",₹1000,100% ,5 Patient Stories,Medicover Hospitals
+526,['Orthopedist2'],Dr. Manjunath Reddy G,22 years experience overall,"KPHB,Hyderabad",₹700,89% ,50 Patient Stories,Medicover Hospitals
+527,['Dentist1'],Dr. Kranthi Kumar Reddy R,16 years experience overall,"Kondapur,Hyderabad",₹500,97% ,179 Patient Stories,Medicover Hospitals
+528,['Dermatologist2'],Dr. Syeda Nikhat,26 years experience overall,"Banjara Hills,Hyderabad",₹700,97% ,11 Patient Stories,Medicover Hospitals
+529,['Dentist1'],Dr. Mohan Rayapudi,13 years experience overall,"Kukatpally,Hyderabad",₹300,100% ,45 Patient Stories,Medicover Hospitals
+530,['Dentist'],Dr. Harika,9 years experience overall,"SR Nagar,Hyderabad",₹200,99% ,107 Patient Stories,GB Dental Hospital
+531,['Plastic Surgeon2'],Dr. Priti Shukla,29 years experience overall,"Banjara Hills,Hyderabad",₹1000,95% ,113 Patient Stories,GB Dental Hospital
+532,['General Surgeon2'],Dr. Nandakishore Dukkipati,29 years experience overall,"Jubilee Hills,Hyderabad",₹850,100% ,29 Patient Stories,GB Dental Hospital
+533,['Dentist1'],Dr. Ershad,15 years experience overall,"Madinaguda,Hyderabad",₹300,100% ,34 Patient Stories,GB Dental Hospital
+534,['Nephrologist1'],Dr. G Dhanalakshmi,19 years experience overall,"Lakdikapul,Hyderabad",₹950,75% ,2 Patient Stories,GB Dental Hospital
+535,['Dentist1'],Dr. Salecha Priyank Ashokkumar,9 years experience overall,"Kondapur,Hyderabad",₹900,97% ,15 Patient Stories,GB Dental Hospital
+536,['General Surgeon'],Dr. Sahaja Reddy,13 years experience overall,"Mansoorabad,Hyderabad",₹300,99% ,109 Patient Stories,GB Dental Hospital
+537,['Gynecologist/Obstetrician2'],Dr. Sridevi Ragi,22 years experience overall,"Kondapur,Hyderabad",₹600,99% ,117 Patient Stories,GB Dental Hospital
+538,['Cardiologist2'],Dr. Kumar Narayanan,23 years experience overall,"Hitech City,Hyderabad",₹500,87% ,8 Patient Stories,GB Dental Hospital
+539,['Neurologist'],Dr. Vikram Reddy,5 years experience overall,"Hitech City,Hyderabad",₹500,100% ,NaN,GB Dental Hospital
+540,['Dentist1'],Dr. Udayagiri Gopi,18 years experience overall,"KPHB,Hyderabad",₹300,98% ,52 Patient Stories,LN Dental
+541,['Gynecologist/Obstetrician2'],Dr. A. Sreegowri,20 years experience overall,"KPHB,Hyderabad",₹500,93% ,198 Patient Stories,LN Dental
+542,['Orthopedist2'],Dr. Sunil Apisingi,22 years experience overall,"Hitech City,Hyderabad",₹500,63% ,4 Patient Stories,LN Dental
+543,['Hair Transplant Surgeon1'],Dr. Ravichander Rao A,18 years experience overall,"Habsiguda,Hyderabad",₹600,100% ,27 Patient Stories,LN Dental
+544,['Dermatologist2'],Dr. Meghana,20 years experience overall,"Banjara Hills,Hyderabad",₹600,99% ,111 Patient Stories,LN Dental
+545,['Dentist1'],Dr. Syed Saood Hasan Razvi,19 years experience overall,"Tolichowki,Hyderabad",₹300,98% ,65 Patient Stories,LN Dental
+546,['Dermatologist1'],Dr. U Brahmaiah,10 years experience overall,"Secunderabad,Hyderabad",₹600,100% ,37 Patient Stories,LN Dental
+547,['Dentist1'],Dr. Anwesh Ganapurapu,14 years experience overall,"Kondapur,Hyderabad",₹300,98% ,31 Patient Stories,LN Dental
+548,['Dentist1'],Dr. Siva Srinivas,19 years experience overall,"Malkajgiri,Hyderabad",₹300,94% ,37 Patient Stories,LN Dental
+549,['Pediatrician1'],Dr. Naveen Chettupalli,14 years experience overall,"Sanath Nagar,Hyderabad",₹300,100% ,22 Patient Stories,LN Dental
+550,['Dentist1'],Dr. Pereddy Somashekhara Reddy,23 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Apollo Hospitals
+551,['Internal Medicine1'],Dr. Manoj Kumar Dash,26 years experience overall,"AS Rao Nagar,Hyderabad",₹500,100% ,6 Patient Stories,Apollo Hospitals
+552,['Dentist1'],Dr. K Suganthi,25 years experience overall,"Dilsukhnagar,Hyderabad",₹450,100% ,1 Patient Story,Apollo Hospitals
+553,['Dentist1'],Dr. N V R Murthy,24 years experience overall,"KPHB,Hyderabad",₹400,99% ,135 Patient Stories,Apollo Hospitals
+554,['General Physician1'],Dr. Anitha Narayanan,21 years experience overall,"Narayanguda,Hyderabad",₹500,98% ,103 Patient Stories,Apollo Hospitals
+555,['Gynecologist/Obstetrician1'],Dr. BKN Sudha,17 years experience overall,"KPHB,Hyderabad",₹500,97% ,74 Patient Stories,Apollo Hospitals
+556,['Gynecologist/Obstetrician'],Dr. Kiran Banda,14 years experience overall,"Hitech City,Hyderabad",₹500,100% ,6 Patient Stories,Apollo Hospitals
+557,['Psychiatrist1'],Dr. Naresh Kumar V,18 years experience overall,"Nallakunta,Hyderabad",₹300,99% ,159 Patient Stories,Apollo Hospitals
+558,['Dentist1'],Dr. Santhosh Reddy Duliganti,19 years experience overall,"Manikonda,Hyderabad",₹500,97% ,24 Patient Stories,Apollo Hospitals
+559,['Gynecologist/Obstetrician1'],Dr. Arun Shah,37 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Apollo Hospitals
+560,['Dentist2'],Dr. Anitha Ethamukkala,21 years experience overall,"Banjara Hills,Hyderabad",₹500,100% ,29 Patient Stories,Vistadent Dental Clinic
+561,['Pediatrician1'],Dr. Namita Nikhil Choudhari,13 years experience overall,"Manikonda,Hyderabad",₹400,100% ,6 Patient Stories,Vistadent Dental Clinic
+562,['Dentist1'],Dr. Praveen Kumar,12 years experience overall,"Miyapur,Hyderabad",₹300,98% ,126 Patient Stories,Vistadent Dental Clinic
+563,['Gastroenterologist1'],Dr. Suraj Uppalapati,11 years experience overall,"Kondapur,Hyderabad",₹700,94% ,153 Patient Stories,Vistadent Dental Clinic
+564,['\xa0Homoeopath1'],Dr. G.B.Chalam,15 years experience overall,"Chanda Nagar,Hyderabad",₹300,99% ,89 Patient Stories,Vistadent Dental Clinic
+565,['Dentist1'],Dr. Arvind Nahata,11 years experience overall,"Himayat Nagar,Hyderabad",₹300,99% ,172 Patient Stories,Vistadent Dental Clinic
+566,['Dentist1'],Dr. Rajkumar,18 years experience overall,"AS Rao Nagar,Hyderabad",₹400,96% ,14 Patient Stories,Vistadent Dental Clinic
+567,['Gynecologist/Obstetrician1'],Dr. Bana Rupa,17 years experience overall,"Jubilee Hills,Hyderabad",₹800,100% ,1 Patient Story,Vistadent Dental Clinic
+568,['Dentist1'],Dr. Lavanya B,17 years experience overall,"Madhapur,Hyderabad",₹400,93% ,96 Patient Stories,Vistadent Dental Clinic
+569,['Dermatologist1'],Dr. Mallikarjun,10 years experience overall,"Chanda Nagar,Hyderabad",₹400,98% ,57 Patient Stories,Vistadent Dental Clinic
+570,['Orthopedist2'],Dr. Vinay Kishore,20 years experience overall,"Hitech City,Hyderabad",₹600,100% ,6 Patient Stories,Medicover Hospitals
+571,['Pediatrician2'],Dr. Shwetha Priyadarshini,20 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,1 Patient Story,Medicover Hospitals
+572,['Dentist2'],Dr. Ajay Krishna,21 years experience overall,"Gachibowli,Hyderabad",₹500,95% ,115 Patient Stories,Medicover Hospitals
+573,['Dentist'],Dr. Sana Fatima,7 years experience overall,"Tolichowki,Hyderabad",₹300,100% ,2 Patient Stories,Medicover Hospitals
+574,['Hematologist1'],Dr. S.K.Gupta,17 years experience overall,"Kukatpally,Hyderabad",₹1000,98% ,86 Patient Stories,Medicover Hospitals
+575,['Plastic Surgeon1'],Dr. M V Naveen Reddy,19 years experience overall,"Secunderabad,Hyderabad",₹900,85% ,3 Patient Stories,Medicover Hospitals
+576,['Dentist1'],Dr. Yashvanth Bethapudi,13 years experience overall,"Ramkoti,Hyderabad",₹300,99% ,347 Patient Stories,Medicover Hospitals
+577,['Ophthalmologist1'],Dr. Harikrishnan V,16 years experience overall,"Sainikpuri,Hyderabad",₹500,100% ,18 Patient Stories,Medicover Hospitals
+578,['Orthopedist1'],Dr. VIvek Reddy M,19 years experience overall,"Jubilee Hills,Hyderabad",₹1000,100% ,1 Patient Story,Medicover Hospitals
+579,['\xa0Homoeopath2'],Dr. Sandhya,20 years experience overall,"Manikonda,Hyderabad",₹500,96% ,22 Patient Stories,Medicover Hospitals
+580,['Gynecologist/Obstetrician2'],Dr. Indrani Mogali,22 years experience overall,"Kompally,Hyderabad",₹600,98% ,47 Patient Stories,Hegde Hospital
+581,['Dermatologist3'],Dr. Satyanarayana Murthy Komakula,34 years experience overall,"AS Rao Nagar,Hyderabad",₹450,65% ,15 Patient Stories,Hegde Hospital
+582,['Ear-Nose-Throat (ENT) Specialist2'],Dr. Jaswender Singh Saluja,31 years experience overall,"Jubilee Hills,Hyderabad",₹1000,NaN,NaN,Hegde Hospital
+583,['Ear-Nose-Throat (ENT) Specialist3'],Dr. Prasad VSV,33 years experience overall,"Lakdikapul,Hyderabad",₹500,93% ,14 Patient Stories,Hegde Hospital
+584,['Pediatrician3'],Dr. Krishna Bojja,20 years experience overall,"Chanda Nagar,Hyderabad",₹600,80% ,16 Patient Stories,Hegde Hospital
+585,['\xa0Homoeopath2'],Dr. Saritha Agarwal,23 years experience overall,"Padmarao Nagar,Hyderabad",₹750,96% ,52 Patient Stories,Hegde Hospital
+586,['Dentist'],Dr. Akula Lakshmi Prasanna,6 years experience overall,"Kukatpally,Hyderabad",₹300,100% ,134 Patient Stories,Hegde Hospital
+587,['Radiologist2'],Dr. Rajesh Kumar Enagala,25 years experience overall,"Banjara Hills,Hyderabad",₹650,100% ,20 Patient Stories,Hegde Hospital
+588,['Pediatrician4'],Dr. S Sridevi,47 years experience overall,"Saidabad,Hyderabad",₹350,98% ,29 Patient Stories,Hegde Hospital
+589,['Dentist1'],Dr. Rajesh Aduri,13 years experience overall,"Dilsukhnagar,Hyderabad",₹400,98% ,139 Patient Stories,Hegde Hospital
+590,,,,,,,,
